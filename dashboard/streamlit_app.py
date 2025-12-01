@@ -1,9 +1,11 @@
+# dashboard/streamlit_app.py
 import streamlit as st
 import pandas as pd
 import json
 from pathlib import Path
 import plotly.express as px
 from datetime import datetime
+import os
 
 st.set_page_config(page_title="SOC Alert Monitoring", layout="wide")
 
@@ -34,14 +36,16 @@ def load_alerts():
         st.error(f"Erro ao carregar {ALERTS_FILE}: {e}")
         return pd.DataFrame()
 
-    # Normalize to DataFrame
     rows = []
     for a in alerts:
+        rep = a.get("reputation", {})
         rows.append({
             "type": a.get("type"),
             "ip": a.get("ip", a.get("host", "-")),
             "severity": ("High" if a.get("type")=="brute_force" else "Medium" if a.get("type") in ("suspicious_http","high_activity") else "Low"),
             "description": a.get("description", a.get("raw", a.get("msg", "-"))),
+            "rep_score": rep.get("score", 0),
+            "rep_category": rep.get("category", "unknown"),
             "raw": json.dumps(a)
         })
     df = pd.DataFrame(rows)
@@ -76,8 +80,13 @@ else:
     fig2 = px.bar(ip_counts.head(10), x='ip', y='count', labels={'count':'Eventos','ip':'IP'})
     st.plotly_chart(fig2, use_container_width=True)
 
+    st.markdown("### Reputação dos IPs")
+    if not df.empty:
+        fig3 = px.bar(df.groupby(['ip','rep_category'])['rep_score'].max().reset_index(), x='ip', y='rep_score', color='rep_category', labels={'rep_score':'Score', 'ip':'IP'})
+        st.plotly_chart(fig3, use_container_width=True)
+
     st.markdown("### Tabela de alertas")
-    st.dataframe(df[['type','ip','severity','description']].reset_index(drop=True), use_container_width=True)
+    st.dataframe(df[['type','ip','severity','rep_category','rep_score','description']].reset_index(drop=True), use_container_width=True)
 
     with st.expander("Visualizar alertas raw (JSON)"):
         for i, row in df.iterrows():

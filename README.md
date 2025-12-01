@@ -43,3 +43,22 @@ pip install -r requirements.txt
 python scripts/generate_logs.py
 python scripts/detector.py
 python scripts/report_generator.py
+
+## 🗺️ Roadmap – SOC Alert Monitoring
+
+```mermaid
+graph LR
+  A[🎯 Fase 1 — Fundação do Sistema] --> B[📎 Geração de logs realistas]
+  B --> C[🧠 Motor de Detecção (Brute Force, HTTP, Windows)]
+  C --> D[📝 Relatórios SOC automatizados]
+
+  D --> E[🎨 Painel Streamlit – Versão 1]
+  E --> F[📊 Visualizações Avançadas]
+
+  F --> G[🔍 Threat Intelligence – IP Reputation]
+  G --> H[🌐 Integração com APIs externas]
+
+  H --> I[⚙️ CI/CD com GitHub Actions]
+  I --> J[🧪 Testes Automáticos + QA]
+
+  J --> K[🚀 Fase Final — Dashboard Completo & Operacional]
