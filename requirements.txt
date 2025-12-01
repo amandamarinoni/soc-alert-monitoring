@@ -4,3 +4,4 @@ tabulate
 streamlit
 pandas
 plotly
+pip freeze
