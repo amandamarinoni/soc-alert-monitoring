@@ -8,6 +8,7 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 ALERTS = os.path.join(BASE_DIR, "logs", "alerts.json")
 OUT = os.path.join(BASE_DIR, "logs", "incident_report.md")
 
+
 def severity(a):
     t = a.get("type")
     if t == "brute_force":
@@ -16,6 +17,7 @@ def severity(a):
         return "Medium"
     return "Low"
 
+
 def load_alerts():
     try:
         with open(ALERTS, "r", encoding="utf-8") as f:
@@ -23,10 +25,6 @@ def load_alerts():
     except Exception:
         return []
 
-def fmt_rep(rep):
-    if not rep:
-        return "N/A"
-    return f"{rep.get('score', 0)} ({rep.get('category','unknown')}) — {rep.get('details','-')}"
 
 def generate():
     alerts = load_alerts()
@@ -37,18 +35,32 @@ def generate():
     if not alerts:
         lines.append("No alerts detected.\n")
     else:
-        # summary table
         table = []
         for i, a in enumerate(alerts, 1):
             rep = a.get("reputation", {})
             notes = a.get("description") or a.get("raw", "")
-            table.append([i, a.get("type"), a.get("ip", "-"), severity(a), rep.get("category","unknown"), rep.get("score",0), notes])
+            table.append(
+                [
+                    i,
+                    a.get("type"),
+                    a.get("ip", "-"),
+                    severity(a),
+                    rep.get("category", "unknown"),
+                    rep.get("score", 0),
+                    notes,
+                ]
+            )
 
         lines.append("## Summary\n")
-        lines.append(tabulate(table, headers=["#", "Type", "IP", "Severity", "Rep Category", "Rep Score", "Notes"], tablefmt="github"))
+        lines.append(
+            tabulate(
+                table,
+                headers=["#", "Type", "IP", "Severity", "Rep Category", "Rep Score", "Notes"],
+                tablefmt="github",
+            )
+        )
         lines.append("\n")
 
-        # detailed
         lines.append("## Details\n")
         for i, a in enumerate(alerts, 1):
             lines.append(f"### Alert {i}: {a.get('type')}")
@@ -72,6 +84,7 @@ def generate():
         f.write("\n".join(lines))
 
     print(f"[+] Report saved to {OUT}")
+
 
 if __name__ == "__main__":
     generate()

@@ -8,5 +8,6 @@ THREAT_DB = {
 
 DEFAULT_REPUTATION = {"score": 0, "category": "unknown", "details": "No records"}
 
+
 def enrich_ip(ip: str):
     return THREAT_DB.get(ip, DEFAULT_REPUTATION)
