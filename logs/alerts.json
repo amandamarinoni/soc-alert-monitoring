@@ -1,0 +1,2150 @@
+[
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "brute_force",
+    "ip": "10.0.0.5",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:40:45Z",
+    "last_detected": "2025-12-01T17:05:11Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "brute_force",
+    "ip": "203.0.113.50",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:36:31Z",
+    "last_detected": "2025-12-01T17:11:58Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "10.0.0.12",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:37:01Z",
+    "last_detected": "2025-12-01T18:03:45Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "192.168.1.20",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:39:39Z",
+    "last_detected": "2025-12-01T17:42:15Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "brute_force",
+    "ip": "198.51.100.23",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:30:29Z",
+    "last_detected": "2025-12-01T16:42:31Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "203.0.113.50",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T17:58:02Z",
+    "last_detected": "2025-12-01T16:49:44Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "brute_force",
+    "ip": "203.0.113.99",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:11:35Z",
+    "last_detected": "2025-12-01T18:11:20Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "brute_force",
+    "ip": "198.51.100.23",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:27:22Z",
+    "last_detected": "2025-12-01T17:01:58Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "10.0.0.12",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:37:00Z",
+    "last_detected": "2025-12-01T17:42:44Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "brute_force",
+    "ip": "192.168.1.20",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T17:54:37Z",
+    "last_detected": "2025-12-01T17:41:06Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "brute_force",
+    "ip": "10.0.0.5",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:33:27Z",
+    "last_detected": "2025-12-01T17:34:03Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "203.0.113.50",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:35:03Z",
+    "last_detected": "2025-12-01T17:06:40Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/api/data",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /api/data (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "198.51.100.23",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:39:49Z",
+    "last_detected": "2025-12-01T16:53:02Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.12",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "192.168.1.20",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "10.0.0.5",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "192.168.1.20",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:35:00Z",
+    "last_detected": "2025-12-01T17:38:26Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /login (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /admin (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /wp-login.php (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/admin",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /admin (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/api/data",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /api/data (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /wp-login.php (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/wp-login.php",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /wp-login.php (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "10.0.0.5",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:33:12Z",
+    "last_detected": "2025-12-01T17:34:11Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "203.0.113.50",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 403,
+    "description": "Suspicious HTTP activity on /admin (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.12",
+    "path": "/login",
+    "code": 500,
+    "description": "Suspicious HTTP activity on /login (500)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/login",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /login (301)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/wp-login.php",
+    "code": 301,
+    "description": "Suspicious HTTP activity on /wp-login.php (301)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "203.0.113.50",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/",
+    "code": 403,
+    "description": "Suspicious HTTP activity on / (403)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/admin",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /admin (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/",
+    "code": 500,
+    "description": "Suspicious HTTP activity on / (500)"
+  },
+  {
+    "type": "windows_logon_failure",
+    "ip": "198.51.100.23",
+    "msg": "Logon Failure"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "10.0.0.5",
+    "path": "/login",
+    "code": 404,
+    "description": "Suspicious HTTP activity on /login (404)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/admin",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /admin (200)"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "198.51.100.23",
+    "path": "/wp-login.php",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /wp-login.php (200)"
+  },
+  {
+    "type": "brute_force",
+    "ip": "203.0.113.99",
+    "count_in_window": 10,
+    "first_detected": "2025-12-01T18:11:45Z",
+    "last_detected": "2025-12-01T18:12:20Z",
+    "description": "SSH brute force detected: 10 failed attempts"
+  },
+  {
+    "type": "suspicious_http",
+    "ip": "192.168.1.20",
+    "path": "/login",
+    "code": 200,
+    "description": "Suspicious HTTP activity on /login (200)"
+  },
+  {
+    "type": "high_activity",
+    "ip": "203.0.113.50",
+    "count": 211,
+    "description": "High activity detected from IP: 203.0.113.50"
+  },
+  {
+    "type": "high_activity",
+    "ip": "10.0.0.5",
+    "count": 208,
+    "description": "High activity detected from IP: 10.0.0.5"
+  },
+  {
+    "type": "high_activity",
+    "ip": "10.0.0.12",
+    "count": 185,
+    "description": "High activity detected from IP: 10.0.0.12"
+  },
+  {
+    "type": "high_activity",
+    "ip": "192.168.1.20",
+    "count": 199,
+    "description": "High activity detected from IP: 192.168.1.20"
+  },
+  {
+    "type": "high_activity",
+    "ip": "198.51.100.23",
+    "count": 197,
+    "description": "High activity detected from IP: 198.51.100.23"
+  }
+]

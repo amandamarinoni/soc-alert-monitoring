@@ -1,5 +1,14 @@
 import random
+import os
 from datetime import datetime, timedelta
+
+# Resolve caminho ABSOLUTO para a raiz do projeto
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+LOG_DIR = os.path.join(BASE_DIR, "logs")
+OUT_FILE = os.path.join(LOG_DIR, "generated_logs.log")
+
+# Garante que a pasta logs exista
+os.makedirs(LOG_DIR, exist_ok=True)
 
 hosts = ["10.0.0.5", "10.0.0.12", "192.168.1.20", "203.0.113.50", "198.51.100.23"]
 users = ["alice", "bob", "carol", "dave", "eve"]
@@ -19,7 +28,7 @@ def random_date(start, end):
     sec = random.randint(0, int(delta.total_seconds()))
     return start + timedelta(seconds=sec)
 
-def main(out_file="../logs/generated_logs.log"):
+def main():
     now = datetime.utcnow()
     start = now - timedelta(hours=2)
     lines = []
@@ -57,11 +66,12 @@ def main(out_file="../logs/generated_logs.log"):
 
     random.shuffle(lines)
 
-    with open(out_file, "w", encoding="utf-8") as f:
+    # grava no arquivo final
+    with open(OUT_FILE, "w", encoding="utf-8") as f:
         for l in lines:
             f.write(l + "\n")
 
-    print(f"[+] Generated {len(lines)} log lines at {out_file}")
+    print(f"[+] Generated {len(lines)} log lines at {OUT_FILE}")
 
 if __name__ == "__main__":
     main()

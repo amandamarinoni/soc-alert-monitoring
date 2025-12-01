@@ -1,0 +1,1020 @@
+203.0.113.50 - - [2025-12-01T18:24:34Z] "GET /api/data HTTP/1.1" 301 2691
+2025-12-01T17:11:01Z 10.0.0.5 sshd[5314]: Accepted password for alice from 10.0.0.5 port 51895
+10.0.0.5 - - [2025-12-01T18:34:40Z] "POST / HTTP/1.1" 200 1248
+10.0.0.12 - - [2025-12-01T17:23:26Z] "GET / HTTP/1.1" 403 4159
+192.168.1.20 - - [2025-12-01T18:28:49Z] "GET /admin HTTP/1.1" 200 719
+10.0.0.5 - - [2025-12-01T17:39:05Z] "POST / HTTP/1.1" 200 4208
+2025-12-01T18:11:35Z 203.0.113.99 sshd[8075]: Failed password for bob from 203.0.113.99 port 14000
+2025-12-01T18:11:00Z 203.0.113.99 sshd[3219]: Failed password for eve from 203.0.113.99 port 4327
+2025-12-01T18:37:01Z 10.0.0.12 sshd[4564]: Failed password for alice from 10.0.0.12 port 16353
+2025-12-01T16:43:37Z 203.0.113.50 sshd[8620]: Accepted password for bob from 203.0.113.50 port 14811
+2025-12-01T18:31:51Z 198.51.100.23 EventID=4624 User=alice Msg=Logon Success
+2025-12-01T17:07:03Z 10.0.0.5 EventID=4672 User=alice Msg=Privilege Assigned
+2025-12-01T18:13:12Z 203.0.113.50 sshd[2378]: Accepted password for bob from 203.0.113.50 port 47106
+2025-12-01T18:35:22Z 10.0.0.12 sshd[7652]: Accepted password for eve from 10.0.0.12 port 62082
+2025-12-01T17:57:41Z 10.0.0.5 EventID=4624 User=dave Msg=Logon Failure
+2025-12-01T18:20:15Z 203.0.113.50 sshd[4993]: Failed password for eve from 203.0.113.50 port 41309
+203.0.113.50 - - [2025-12-01T17:47:48Z] "GET /api/data HTTP/1.1" 200 3168
+2025-12-01T17:28:37Z 203.0.113.50 EventID=4625 User=dave Msg=Logon Failure
+2025-12-01T17:49:04Z 10.0.0.12 sshd[8803]: Failed password for carol from 10.0.0.12 port 49810
+2025-12-01T18:24:33Z 10.0.0.12 sshd[5089]: Accepted password for alice from 10.0.0.12 port 47053
+2025-12-01T16:45:13Z 203.0.113.50 sshd[7072]: Failed password for eve from 203.0.113.50 port 17295
+2025-12-01T18:36:31Z 203.0.113.50 sshd[4423]: Failed password for bob from 203.0.113.50 port 3085
+2025-12-01T18:29:32Z 192.168.1.20 sshd[4112]: Accepted password for dave from 192.168.1.20 port 16068
+192.168.1.20 - - [2025-12-01T18:27:43Z] "POST /wp-login.php HTTP/1.1" 403 3552
+2025-12-01T18:30:30Z 10.0.0.12 sshd[2490]: Accepted password for alice from 10.0.0.12 port 14266
+203.0.113.50 - - [2025-12-01T16:42:01Z] "POST /api/data HTTP/1.1" 200 1818
+10.0.0.5 - - [2025-12-01T18:13:58Z] "POST /api/data HTTP/1.1" 200 1181
+2025-12-01T17:30:18Z 192.168.1.20 sshd[2231]: Accepted password for carol from 192.168.1.20 port 32755
+2025-12-01T17:50:57Z 10.0.0.5 sshd[6816]: Accepted password for eve from 10.0.0.5 port 61037
+2025-12-01T17:41:35Z 198.51.100.23 sshd[5190]: Accepted password for carol from 198.51.100.23 port 58179
+2025-12-01T16:42:13Z 198.51.100.23 sshd[3123]: Failed password for carol from 198.51.100.23 port 37811
+2025-12-01T17:10:33Z 203.0.113.50 sshd[4793]: Accepted password for alice from 203.0.113.50 port 47151
+2025-12-01T17:51:40Z 192.168.1.20 sshd[1400]: Failed password for dave from 192.168.1.20 port 51853
+2025-12-01T17:10:59Z 10.0.0.12 sshd[8256]: Failed password for alice from 10.0.0.12 port 17519
+10.0.0.12 - - [2025-12-01T17:02:28Z] "GET /wp-login.php HTTP/1.1" 301 2197
+2025-12-01T18:20:51Z 203.0.113.50 EventID=4672 User=eve Msg=Privilege Assigned
+10.0.0.5 - - [2025-12-01T17:52:45Z] "POST / HTTP/1.1" 404 562
+203.0.113.50 - - [2025-12-01T16:52:37Z] "POST /wp-login.php HTTP/1.1" 301 2410
+2025-12-01T17:37:36Z 198.51.100.23 sshd[8089]: Failed password for carol from 198.51.100.23 port 5780
+2025-12-01T18:21:23Z 203.0.113.50 sshd[2815]: Accepted password for dave from 203.0.113.50 port 52998
+2025-12-01T17:50:27Z 10.0.0.5 sshd[5534]: Failed password for eve from 10.0.0.5 port 37288
+203.0.113.50 - - [2025-12-01T18:39:36Z] "GET /login HTTP/1.1" 200 447
+10.0.0.12 - - [2025-12-01T16:59:04Z] "POST /login HTTP/1.1" 403 4203
+2025-12-01T18:37:18Z 198.51.100.23 EventID=4672 User=alice Msg=Logon Success
+10.0.0.12 - - [2025-12-01T18:25:26Z] "POST /api/data HTTP/1.1" 403 1378
+2025-12-01T16:46:01Z 10.0.0.5 sshd[3286]: Accepted password for eve from 10.0.0.5 port 23585
+2025-12-01T17:49:53Z 192.168.1.20 EventID=4672 User=bob Msg=Privilege Assigned
+2025-12-01T17:07:36Z 10.0.0.5 sshd[4574]: Accepted password for dave from 10.0.0.5 port 45298
+2025-12-01T18:34:09Z 10.0.0.5 EventID=4672 User=eve Msg=Logon Success
+198.51.100.23 - - [2025-12-01T18:26:48Z] "POST /admin HTTP/1.1" 301 1181
+2025-12-01T18:18:13Z 203.0.113.50 sshd[3839]: Failed password for carol from 203.0.113.50 port 26013
+198.51.100.23 - - [2025-12-01T17:34:45Z] "POST /api/data HTTP/1.1" 200 3931
+198.51.100.23 - - [2025-12-01T17:50:03Z] "POST / HTTP/1.1" 200 2120
+10.0.0.12 - - [2025-12-01T17:44:22Z] "GET /wp-login.php HTTP/1.1" 403 2897
+2025-12-01T17:44:53Z 192.168.1.20 sshd[2646]: Accepted password for alice from 192.168.1.20 port 42593
+2025-12-01T18:17:47Z 203.0.113.50 EventID=4624 User=bob Msg=Logon Failure
+2025-12-01T18:40:45Z 10.0.0.5 sshd[4483]: Failed password for carol from 10.0.0.5 port 40627
+2025-12-01T17:20:05Z 203.0.113.50 sshd[8386]: Accepted password for dave from 203.0.113.50 port 16205
+2025-12-01T18:10:06Z 10.0.0.12 sshd[3179]: Failed password for eve from 10.0.0.12 port 37251
+10.0.0.12 - - [2025-12-01T17:49:53Z] "GET /api/data HTTP/1.1" 404 1021
+2025-12-01T18:10:45Z 203.0.113.99 sshd[5752]: Failed password for alice from 203.0.113.99 port 59834
+192.168.1.20 - - [2025-12-01T18:15:39Z] "POST /wp-login.php HTTP/1.1" 500 464
+203.0.113.50 - - [2025-12-01T18:05:46Z] "GET /login HTTP/1.1" 200 4203
+10.0.0.12 - - [2025-12-01T18:40:02Z] "GET /admin HTTP/1.1" 301 2932
+2025-12-01T17:11:38Z 10.0.0.12 sshd[6215]: Failed password for bob from 10.0.0.12 port 40601
+2025-12-01T16:51:28Z 10.0.0.5 sshd[7390]: Failed password for eve from 10.0.0.5 port 23981
+192.168.1.20 - - [2025-12-01T16:47:12Z] "POST /admin HTTP/1.1" 403 677
+2025-12-01T18:01:45Z 10.0.0.5 sshd[7997]: Failed password for bob from 10.0.0.5 port 4366
+2025-12-01T17:34:18Z 10.0.0.5 EventID=4624 User=carol Msg=Logon Failure
+2025-12-01T18:01:00Z 10.0.0.12 sshd[5604]: Accepted password for carol from 10.0.0.12 port 63844
+2025-12-01T18:26:53Z 203.0.113.50 sshd[5868]: Accepted password for dave from 203.0.113.50 port 7985
+2025-12-01T18:07:27Z 192.168.1.20 sshd[3197]: Failed password for alice from 192.168.1.20 port 44080
+2025-12-01T18:07:51Z 10.0.0.12 sshd[1726]: Failed password for carol from 10.0.0.12 port 33069
+2025-12-01T18:11:40Z 10.0.0.5 sshd[5093]: Accepted password for eve from 10.0.0.5 port 45716
+203.0.113.50 - - [2025-12-01T18:12:34Z] "GET /wp-login.php HTTP/1.1" 404 2539
+10.0.0.12 - - [2025-12-01T18:06:14Z] "GET /api/data HTTP/1.1" 404 2637
+203.0.113.50 - - [2025-12-01T17:01:55Z] "GET / HTTP/1.1" 301 344
+2025-12-01T17:55:20Z 192.168.1.20 EventID=4672 User=dave Msg=Logon Success
+198.51.100.23 - - [2025-12-01T17:23:21Z] "GET /admin HTTP/1.1" 500 4191
+2025-12-01T17:33:38Z 203.0.113.50 EventID=4625 User=eve Msg=Logon Success
+2025-12-01T18:11:05Z 203.0.113.99 sshd[1876]: Failed password for eve from 203.0.113.99 port 32378
+198.51.100.23 - - [2025-12-01T18:16:11Z] "GET /api/data HTTP/1.1" 403 4066
+198.51.100.23 - - [2025-12-01T18:21:09Z] "POST /login HTTP/1.1" 200 4775
+10.0.0.5 - - [2025-12-01T17:22:47Z] "GET /admin HTTP/1.1" 200 394
+203.0.113.50 - - [2025-12-01T18:01:09Z] "GET /login HTTP/1.1" 404 4493
+198.51.100.23 - - [2025-12-01T17:46:12Z] "POST /admin HTTP/1.1" 200 4563
+192.168.1.20 - - [2025-12-01T17:12:59Z] "POST /admin HTTP/1.1" 500 530
+10.0.0.12 - - [2025-12-01T17:37:25Z] "GET / HTTP/1.1" 500 2406
+2025-12-01T17:28:04Z 10.0.0.12 sshd[7640]: Accepted password for dave from 10.0.0.12 port 1802
+203.0.113.50 - - [2025-12-01T17:59:11Z] "GET /api/data HTTP/1.1" 500 1987
+203.0.113.50 - - [2025-12-01T17:46:45Z] "POST /api/data HTTP/1.1" 200 2635
+198.51.100.23 - - [2025-12-01T17:08:32Z] "POST / HTTP/1.1" 500 3747
+10.0.0.12 - - [2025-12-01T18:32:53Z] "POST / HTTP/1.1" 200 1549
+2025-12-01T18:32:29Z 198.51.100.23 sshd[4557]: Accepted password for bob from 198.51.100.23 port 30018
+2025-12-01T17:02:57Z 198.51.100.23 sshd[2041]: Accepted password for dave from 198.51.100.23 port 45763
+2025-12-01T16:51:12Z 10.0.0.5 sshd[4152]: Accepted password for bob from 10.0.0.5 port 56218
+10.0.0.5 - - [2025-12-01T18:02:40Z] "GET /login HTTP/1.1" 500 4320
+203.0.113.50 - - [2025-12-01T16:54:18Z] "POST /admin HTTP/1.1" 403 4330
+2025-12-01T18:11:30Z 203.0.113.99 sshd[6064]: Failed password for alice from 203.0.113.99 port 46775
+2025-12-01T17:21:02Z 198.51.100.23 EventID=4625 User=eve Msg=Logon Failure
+2025-12-01T17:28:56Z 203.0.113.50 EventID=4672 User=carol Msg=Logon Failure
+2025-12-01T17:58:06Z 10.0.0.5 sshd[2889]: Failed password for carol from 10.0.0.5 port 51005
+2025-12-01T16:51:20Z 198.51.100.23 sshd[5145]: Accepted password for alice from 198.51.100.23 port 7963
+2025-12-01T18:12:15Z 192.168.1.20 sshd[8649]: Accepted password for alice from 192.168.1.20 port 25329
+2025-12-01T16:50:59Z 10.0.0.5 sshd[2676]: Failed password for dave from 10.0.0.5 port 6247
+2025-12-01T17:06:07Z 192.168.1.20 sshd[8870]: Accepted password for dave from 192.168.1.20 port 26381
+2025-12-01T17:14:38Z 203.0.113.50 sshd[2915]: Accepted password for eve from 203.0.113.50 port 4275
+198.51.100.23 - - [2025-12-01T18:17:52Z] "POST /wp-login.php HTTP/1.1" 301 2880
+2025-12-01T17:10:20Z 192.168.1.20 sshd[1835]: Failed password for alice from 192.168.1.20 port 5863
+2025-12-01T17:00:32Z 203.0.113.50 EventID=4672 User=bob Msg=Logon Success
+203.0.113.50 - - [2025-12-01T17:08:49Z] "POST /login HTTP/1.1" 200 1219
+10.0.0.5 - - [2025-12-01T17:40:32Z] "POST /wp-login.php HTTP/1.1" 500 4452
+2025-12-01T17:10:14Z 192.168.1.20 sshd[3184]: Failed password for carol from 192.168.1.20 port 26930
+2025-12-01T16:56:33Z 10.0.0.5 sshd[4882]: Failed password for dave from 10.0.0.5 port 43375
+2025-12-01T17:34:45Z 198.51.100.23 sshd[3444]: Failed password for dave from 198.51.100.23 port 7208
+2025-12-01T17:33:46Z 10.0.0.5 EventID=4624 User=alice Msg=Logon Success
+2025-12-01T18:39:36Z 10.0.0.12 sshd[7507]: Accepted password for bob from 10.0.0.12 port 26504
+198.51.100.23 - - [2025-12-01T17:48:40Z] "GET /api/data HTTP/1.1" 404 1745
+2025-12-01T18:12:14Z 203.0.113.50 sshd[6974]: Accepted password for bob from 203.0.113.50 port 46298
+2025-12-01T16:54:29Z 198.51.100.23 sshd[6752]: Accepted password for carol from 198.51.100.23 port 45837
+2025-12-01T18:30:29Z 198.51.100.23 sshd[3885]: Failed password for alice from 198.51.100.23 port 33481
+10.0.0.5 - - [2025-12-01T18:40:33Z] "POST /wp-login.php HTTP/1.1" 500 4316
+2025-12-01T18:11:10Z 203.0.113.50 sshd[2035]: Failed password for bob from 203.0.113.50 port 31686
+198.51.100.23 - - [2025-12-01T17:51:26Z] "POST /api/data HTTP/1.1" 200 4553
+2025-12-01T17:01:03Z 192.168.1.20 EventID=4672 User=eve Msg=Privilege Assigned
+2025-12-01T17:54:10Z 203.0.113.50 EventID=4672 User=carol Msg=Logon Success
+10.0.0.12 - - [2025-12-01T17:38:41Z] "GET /login HTTP/1.1" 404 2640
+2025-12-01T17:18:42Z 203.0.113.50 sshd[2265]: Failed password for alice from 203.0.113.50 port 10302
+2025-12-01T17:39:46Z 192.168.1.20 sshd[2714]: Failed password for carol from 192.168.1.20 port 39179
+2025-12-01T18:19:31Z 10.0.0.5 sshd[5588]: Accepted password for alice from 10.0.0.5 port 23526
+2025-12-01T18:36:53Z 203.0.113.50 sshd[6691]: Accepted password for alice from 203.0.113.50 port 21326
+2025-12-01T16:50:14Z 10.0.0.12 EventID=4672 User=eve Msg=Privilege Assigned
+10.0.0.5 - - [2025-12-01T18:19:45Z] "GET /api/data HTTP/1.1" 403 2874
+203.0.113.50 - - [2025-12-01T18:23:17Z] "GET /wp-login.php HTTP/1.1" 403 4232
+192.168.1.20 - - [2025-12-01T18:09:50Z] "GET /login HTTP/1.1" 404 2827
+2025-12-01T18:31:02Z 192.168.1.20 EventID=4624 User=alice Msg=Logon Failure
+2025-12-01T16:42:08Z 198.51.100.23 sshd[1462]: Accepted password for alice from 198.51.100.23 port 18774
+2025-12-01T18:25:05Z 10.0.0.5 EventID=4625 User=bob Msg=Logon Failure
+203.0.113.50 - - [2025-12-01T17:55:37Z] "GET /login HTTP/1.1" 301 2590
+2025-12-01T18:17:43Z 198.51.100.23 sshd[2192]: Failed password for dave from 198.51.100.23 port 20186
+2025-12-01T16:57:18Z 10.0.0.12 sshd[6298]: Accepted password for dave from 10.0.0.12 port 51320
+2025-12-01T18:28:07Z 10.0.0.5 sshd[6539]: Accepted password for alice from 10.0.0.5 port 50323
+2025-12-01T17:14:53Z 192.168.1.20 sshd[2034]: Failed password for dave from 192.168.1.20 port 4384
+198.51.100.23 - - [2025-12-01T16:54:21Z] "GET /admin HTTP/1.1" 301 804
+2025-12-01T18:09:13Z 10.0.0.12 EventID=4672 User=alice Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T17:54:37Z] "POST /wp-login.php HTTP/1.1" 200 1083
+2025-12-01T16:59:15Z 10.0.0.5 sshd[8788]: Accepted password for alice from 10.0.0.5 port 59624
+2025-12-01T17:28:20Z 10.0.0.5 sshd[2801]: Failed password for carol from 10.0.0.5 port 4314
+10.0.0.5 - - [2025-12-01T17:05:05Z] "POST /wp-login.php HTTP/1.1" 200 3566
+2025-12-01T16:55:41Z 198.51.100.23 sshd[8073]: Accepted password for carol from 198.51.100.23 port 1680
+2025-12-01T17:58:38Z 198.51.100.23 sshd[5022]: Accepted password for carol from 198.51.100.23 port 31224
+2025-12-01T18:12:15Z 203.0.113.99 sshd[6560]: Failed password for eve from 203.0.113.99 port 1687
+2025-12-01T17:51:17Z 10.0.0.5 EventID=4625 User=eve Msg=Privilege Assigned
+10.0.0.12 - - [2025-12-01T17:50:33Z] "POST /login HTTP/1.1" 200 435
+2025-12-01T18:39:30Z 10.0.0.12 sshd[2272]: Accepted password for carol from 10.0.0.12 port 61755
+192.168.1.20 - - [2025-12-01T18:33:40Z] "GET /api/data HTTP/1.1" 200 1240
+2025-12-01T17:01:56Z 203.0.113.50 sshd[7294]: Failed password for carol from 203.0.113.50 port 9501
+2025-12-01T18:27:12Z 10.0.0.5 EventID=4624 User=eve Msg=Logon Success
+2025-12-01T18:15:57Z 10.0.0.12 EventID=4625 User=alice Msg=Logon Success
+2025-12-01T17:53:58Z 10.0.0.12 sshd[2477]: Failed password for alice from 10.0.0.12 port 19563
+2025-12-01T18:38:56Z 10.0.0.5 EventID=4672 User=carol Msg=Logon Failure
+2025-12-01T18:19:54Z 10.0.0.12 sshd[7682]: Failed password for bob from 10.0.0.12 port 63450
+2025-12-01T17:43:27Z 192.168.1.20 sshd[2349]: Failed password for bob from 192.168.1.20 port 12943
+2025-12-01T17:34:57Z 192.168.1.20 sshd[8489]: Failed password for alice from 192.168.1.20 port 2067
+2025-12-01T18:16:10Z 192.168.1.20 sshd[1643]: Accepted password for bob from 192.168.1.20 port 40185
+2025-12-01T17:55:17Z 192.168.1.20 sshd[4347]: Accepted password for bob from 192.168.1.20 port 54732
+2025-12-01T16:45:13Z 192.168.1.20 sshd[4236]: Failed password for eve from 192.168.1.20 port 9224
+2025-12-01T17:22:11Z 203.0.113.50 sshd[6516]: Accepted password for alice from 203.0.113.50 port 2629
+10.0.0.5 - - [2025-12-01T17:42:32Z] "POST /admin HTTP/1.1" 200 4765
+2025-12-01T17:39:43Z 10.0.0.5 sshd[5178]: Accepted password for alice from 10.0.0.5 port 7566
+2025-12-01T16:46:11Z 198.51.100.23 sshd[1456]: Failed password for bob from 198.51.100.23 port 51750
+2025-12-01T18:34:42Z 198.51.100.23 sshd[8451]: Accepted password for carol from 198.51.100.23 port 61959
+2025-12-01T17:38:35Z 198.51.100.23 EventID=4624 User=eve Msg=Privilege Assigned
+2025-12-01T17:01:51Z 198.51.100.23 EventID=4672 User=bob Msg=Privilege Assigned
+2025-12-01T18:10:11Z 198.51.100.23 sshd[8469]: Failed password for dave from 198.51.100.23 port 62530
+10.0.0.5 - - [2025-12-01T18:11:00Z] "POST /wp-login.php HTTP/1.1" 200 204
+2025-12-01T17:34:00Z 192.168.1.20 sshd[6615]: Failed password for carol from 192.168.1.20 port 44079
+2025-12-01T17:40:14Z 10.0.0.5 sshd[4583]: Accepted password for alice from 10.0.0.5 port 26328
+2025-12-01T16:47:59Z 203.0.113.50 EventID=4625 User=eve Msg=Logon Failure
+2025-12-01T17:57:40Z 198.51.100.23 sshd[4493]: Accepted password for alice from 198.51.100.23 port 37381
+2025-12-01T17:40:45Z 203.0.113.50 sshd[7908]: Failed password for eve from 203.0.113.50 port 15582
+2025-12-01T18:36:18Z 10.0.0.12 sshd[6554]: Accepted password for dave from 10.0.0.12 port 42627
+2025-12-01T17:44:57Z 192.168.1.20 sshd[1187]: Accepted password for bob from 192.168.1.20 port 9613
+2025-12-01T17:11:50Z 10.0.0.12 sshd[2680]: Accepted password for eve from 10.0.0.12 port 19102
+2025-12-01T17:30:05Z 192.168.1.20 sshd[5071]: Accepted password for carol from 192.168.1.20 port 52709
+2025-12-01T17:51:23Z 192.168.1.20 sshd[6684]: Accepted password for bob from 192.168.1.20 port 31684
+198.51.100.23 - - [2025-12-01T18:38:25Z] "POST /api/data HTTP/1.1" 404 1181
+2025-12-01T17:09:02Z 10.0.0.5 sshd[8261]: Failed password for dave from 10.0.0.5 port 23070
+2025-12-01T18:10:33Z 10.0.0.5 EventID=4625 User=eve Msg=Privilege Assigned
+2025-12-01T18:39:48Z 203.0.113.50 sshd[8984]: Accepted password for alice from 203.0.113.50 port 5821
+2025-12-01T17:20:07Z 10.0.0.12 sshd[5829]: Accepted password for carol from 10.0.0.12 port 32097
+192.168.1.20 - - [2025-12-01T17:41:22Z] "POST /api/data HTTP/1.1" 200 951
+203.0.113.50 - - [2025-12-01T17:33:30Z] "GET /wp-login.php HTTP/1.1" 301 819
+2025-12-01T17:40:10Z 203.0.113.50 sshd[3144]: Accepted password for carol from 203.0.113.50 port 7124
+198.51.100.23 - - [2025-12-01T18:02:05Z] "GET /api/data HTTP/1.1" 200 2535
+2025-12-01T17:52:06Z 10.0.0.12 EventID=4672 User=eve Msg=Logon Failure
+2025-12-01T18:05:55Z 10.0.0.5 sshd[8185]: Failed password for dave from 10.0.0.5 port 34427
+198.51.100.23 - - [2025-12-01T16:53:24Z] "POST /wp-login.php HTTP/1.1" 404 2505
+2025-12-01T18:39:39Z 192.168.1.20 sshd[4920]: Failed password for alice from 192.168.1.20 port 12250
+192.168.1.20 - - [2025-12-01T17:25:58Z] "POST / HTTP/1.1" 500 559
+2025-12-01T18:01:47Z 192.168.1.20 sshd[7006]: Accepted password for alice from 192.168.1.20 port 52000
+2025-12-01T17:51:45Z 203.0.113.50 sshd[5008]: Failed password for bob from 203.0.113.50 port 37949
+2025-12-01T17:00:26Z 10.0.0.12 EventID=4672 User=alice Msg=Logon Failure
+2025-12-01T16:56:30Z 10.0.0.5 sshd[4641]: Accepted password for bob from 10.0.0.5 port 27631
+10.0.0.5 - - [2025-12-01T18:28:11Z] "GET /login HTTP/1.1" 301 1285
+2025-12-01T18:20:53Z 10.0.0.12 EventID=4625 User=bob Msg=Privilege Assigned
+10.0.0.5 - - [2025-12-01T18:25:45Z] "GET /wp-login.php HTTP/1.1" 200 4091
+2025-12-01T18:01:46Z 10.0.0.12 EventID=4625 User=alice Msg=Logon Failure
+198.51.100.23 - - [2025-12-01T16:58:51Z] "GET /admin HTTP/1.1" 403 4979
+10.0.0.12 - - [2025-12-01T17:36:15Z] "POST /wp-login.php HTTP/1.1" 200 2412
+2025-12-01T18:20:41Z 10.0.0.12 EventID=4672 User=alice Msg=Logon Failure
+2025-12-01T17:08:20Z 10.0.0.12 EventID=4672 User=eve Msg=Privilege Assigned
+2025-12-01T16:57:03Z 198.51.100.23 sshd[8650]: Failed password for dave from 198.51.100.23 port 18746
+2025-12-01T17:11:03Z 203.0.113.50 sshd[2196]: Accepted password for dave from 203.0.113.50 port 54515
+2025-12-01T17:05:11Z 10.0.0.5 sshd[8838]: Failed password for dave from 10.0.0.5 port 45763
+2025-12-01T18:01:25Z 198.51.100.23 EventID=4672 User=bob Msg=Logon Success
+10.0.0.12 - - [2025-12-01T17:11:02Z] "GET /admin HTTP/1.1" 301 3386
+2025-12-01T18:07:13Z 198.51.100.23 sshd[4341]: Failed password for eve from 198.51.100.23 port 17394
+2025-12-01T17:35:54Z 203.0.113.50 sshd[8071]: Failed password for alice from 203.0.113.50 port 49018
+2025-12-01T17:38:04Z 203.0.113.50 EventID=4624 User=dave Msg=Privilege Assigned
+2025-12-01T16:45:25Z 192.168.1.20 sshd[3593]: Failed password for dave from 192.168.1.20 port 23433
+2025-12-01T17:56:52Z 198.51.100.23 sshd[7045]: Failed password for eve from 198.51.100.23 port 56969
+2025-12-01T17:33:29Z 192.168.1.20 sshd[2527]: Accepted password for bob from 192.168.1.20 port 57046
+10.0.0.12 - - [2025-12-01T17:56:06Z] "GET /admin HTTP/1.1" 200 4220
+2025-12-01T17:40:45Z 203.0.113.50 sshd[1533]: Failed password for bob from 203.0.113.50 port 13511
+2025-12-01T18:18:42Z 203.0.113.50 EventID=4625 User=eve Msg=Logon Failure
+2025-12-01T17:11:22Z 203.0.113.50 sshd[5179]: Accepted password for eve from 203.0.113.50 port 27174
+2025-12-01T17:44:43Z 10.0.0.5 sshd[7782]: Failed password for alice from 10.0.0.5 port 3889
+2025-12-01T17:11:58Z 203.0.113.50 sshd[1866]: Failed password for carol from 203.0.113.50 port 53099
+2025-12-01T16:53:58Z 198.51.100.23 sshd[5333]: Failed password for eve from 198.51.100.23 port 7568
+2025-12-01T17:22:08Z 192.168.1.20 sshd[4812]: Failed password for bob from 192.168.1.20 port 13927
+2025-12-01T17:07:32Z 10.0.0.5 sshd[6919]: Accepted password for dave from 10.0.0.5 port 57019
+2025-12-01T18:19:26Z 203.0.113.50 EventID=4625 User=carol Msg=Logon Success
+2025-12-01T17:09:24Z 198.51.100.23 EventID=4624 User=bob Msg=Logon Success
+198.51.100.23 - - [2025-12-01T16:43:12Z] "GET /api/data HTTP/1.1" 200 3729
+192.168.1.20 - - [2025-12-01T16:49:03Z] "POST /api/data HTTP/1.1" 200 1134
+203.0.113.50 - - [2025-12-01T17:09:29Z] "POST / HTTP/1.1" 500 3279
+2025-12-01T17:14:30Z 10.0.0.5 sshd[6324]: Accepted password for alice from 10.0.0.5 port 6416
+2025-12-01T18:24:54Z 10.0.0.12 EventID=4672 User=dave Msg=Privilege Assigned
+2025-12-01T16:42:48Z 203.0.113.50 sshd[5284]: Accepted password for carol from 203.0.113.50 port 51737
+198.51.100.23 - - [2025-12-01T17:13:30Z] "POST /admin HTTP/1.1" 403 3227
+2025-12-01T18:28:58Z 198.51.100.23 sshd[4007]: Accepted password for alice from 198.51.100.23 port 41544
+2025-12-01T17:33:26Z 192.168.1.20 sshd[3516]: Accepted password for bob from 192.168.1.20 port 23042
+2025-12-01T18:19:00Z 203.0.113.50 EventID=4624 User=carol Msg=Logon Failure
+2025-12-01T17:39:15Z 10.0.0.5 sshd[6803]: Accepted password for eve from 10.0.0.5 port 35864
+2025-12-01T18:15:18Z 203.0.113.50 sshd[3069]: Accepted password for dave from 203.0.113.50 port 6546
+2025-12-01T16:53:04Z 10.0.0.12 EventID=4625 User=bob Msg=Logon Success
+203.0.113.50 - - [2025-12-01T18:16:41Z] "POST / HTTP/1.1" 200 1507
+2025-12-01T18:11:25Z 203.0.113.99 sshd[2059]: Failed password for bob from 203.0.113.99 port 14526
+2025-12-01T17:47:23Z 192.168.1.20 sshd[5045]: Accepted password for dave from 192.168.1.20 port 44578
+2025-12-01T16:49:12Z 10.0.0.5 sshd[5204]: Accepted password for bob from 10.0.0.5 port 47792
+2025-12-01T17:03:59Z 192.168.1.20 sshd[1178]: Accepted password for carol from 192.168.1.20 port 45572
+2025-12-01T16:59:00Z 10.0.0.5 sshd[5105]: Failed password for dave from 10.0.0.5 port 7544
+2025-12-01T17:46:27Z 10.0.0.5 sshd[4516]: Failed password for carol from 10.0.0.5 port 64471
+203.0.113.50 - - [2025-12-01T18:23:11Z] "GET /admin HTTP/1.1" 200 1374
+2025-12-01T17:39:27Z 10.0.0.5 sshd[6650]: Accepted password for eve from 10.0.0.5 port 19082
+2025-12-01T17:57:51Z 203.0.113.50 EventID=4624 User=carol Msg=Logon Success
+198.51.100.23 - - [2025-12-01T16:44:16Z] "GET /login HTTP/1.1" 500 429
+2025-12-01T17:42:02Z 192.168.1.20 EventID=4672 User=bob Msg=Logon Success
+192.168.1.20 - - [2025-12-01T16:59:58Z] "POST / HTTP/1.1" 500 901
+2025-12-01T17:55:06Z 203.0.113.50 sshd[1834]: Failed password for carol from 203.0.113.50 port 12825
+198.51.100.23 - - [2025-12-01T17:15:31Z] "GET / HTTP/1.1" 200 138
+192.168.1.20 - - [2025-12-01T16:44:54Z] "POST /api/data HTTP/1.1" 200 3050
+2025-12-01T18:11:15Z 203.0.113.99 sshd[8461]: Failed password for carol from 203.0.113.99 port 36104
+2025-12-01T17:44:57Z 198.51.100.23 sshd[3587]: Accepted password for alice from 198.51.100.23 port 19012
+192.168.1.20 - - [2025-12-01T17:04:19Z] "POST / HTTP/1.1" 301 3050
+2025-12-01T18:08:49Z 198.51.100.23 EventID=4624 User=bob Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T17:43:37Z] "GET /admin HTTP/1.1" 200 968
+2025-12-01T17:22:00Z 203.0.113.50 sshd[7477]: Failed password for eve from 203.0.113.50 port 8437
+2025-12-01T17:57:47Z 10.0.0.5 sshd[7631]: Failed password for alice from 10.0.0.5 port 39410
+2025-12-01T17:24:06Z 203.0.113.50 sshd[1371]: Failed password for carol from 203.0.113.50 port 13303
+2025-12-01T16:41:22Z 203.0.113.50 sshd[8838]: Accepted password for dave from 203.0.113.50 port 31385
+2025-12-01T17:28:05Z 192.168.1.20 sshd[2523]: Accepted password for alice from 192.168.1.20 port 8976
+2025-12-01T17:50:37Z 198.51.100.23 EventID=4624 User=eve Msg=Logon Failure
+2025-12-01T18:24:58Z 10.0.0.5 sshd[1138]: Accepted password for alice from 10.0.0.5 port 40258
+10.0.0.12 - - [2025-12-01T16:59:17Z] "GET /login HTTP/1.1" 500 840
+2025-12-01T17:40:56Z 192.168.1.20 sshd[2307]: Failed password for dave from 192.168.1.20 port 5470
+203.0.113.50 - - [2025-12-01T17:33:12Z] "GET / HTTP/1.1" 403 3556
+2025-12-01T16:50:44Z 10.0.0.12 sshd[5476]: Failed password for dave from 10.0.0.12 port 10157
+2025-12-01T16:44:13Z 192.168.1.20 sshd[4205]: Accepted password for eve from 192.168.1.20 port 37780
+192.168.1.20 - - [2025-12-01T17:00:52Z] "GET /api/data HTTP/1.1" 403 3399
+10.0.0.12 - - [2025-12-01T17:13:40Z] "GET /admin HTTP/1.1" 200 917
+10.0.0.12 - - [2025-12-01T17:34:36Z] "GET /admin HTTP/1.1" 403 4477
+2025-12-01T17:26:23Z 10.0.0.5 EventID=4625 User=dave Msg=Privilege Assigned
+2025-12-01T18:11:56Z 192.168.1.20 EventID=4672 User=dave Msg=Logon Success
+203.0.113.50 - - [2025-12-01T16:41:02Z] "GET /admin HTTP/1.1" 301 3387
+203.0.113.50 - - [2025-12-01T18:28:09Z] "GET /login HTTP/1.1" 403 4889
+2025-12-01T18:19:34Z 10.0.0.5 sshd[5190]: Accepted password for dave from 10.0.0.5 port 57525
+2025-12-01T17:23:16Z 192.168.1.20 sshd[8009]: Accepted password for alice from 192.168.1.20 port 4012
+10.0.0.5 - - [2025-12-01T17:59:31Z] "GET / HTTP/1.1" 404 1487
+2025-12-01T17:50:37Z 192.168.1.20 sshd[3736]: Accepted password for dave from 192.168.1.20 port 59450
+2025-12-01T17:10:44Z 192.168.1.20 sshd[1167]: Failed password for bob from 192.168.1.20 port 23319
+2025-12-01T17:47:32Z 198.51.100.23 sshd[5991]: Accepted password for alice from 198.51.100.23 port 10279
+2025-12-01T17:12:42Z 10.0.0.12 sshd[8941]: Accepted password for alice from 10.0.0.12 port 55965
+2025-12-01T18:10:49Z 203.0.113.50 sshd[8084]: Accepted password for bob from 203.0.113.50 port 33839
+2025-12-01T18:01:41Z 192.168.1.20 EventID=4624 User=bob Msg=Privilege Assigned
+2025-12-01T17:40:45Z 198.51.100.23 sshd[3275]: Accepted password for carol from 198.51.100.23 port 45728
+10.0.0.12 - - [2025-12-01T18:04:25Z] "GET / HTTP/1.1" 301 671
+10.0.0.5 - - [2025-12-01T17:08:58Z] "GET /admin HTTP/1.1" 301 3917
+10.0.0.12 - - [2025-12-01T18:07:14Z] "POST / HTTP/1.1" 404 4355
+192.168.1.20 - - [2025-12-01T17:49:10Z] "POST / HTTP/1.1" 403 2091
+2025-12-01T18:19:28Z 192.168.1.20 EventID=4624 User=eve Msg=Logon Failure
+203.0.113.50 - - [2025-12-01T16:54:43Z] "GET / HTTP/1.1" 200 439
+10.0.0.12 - - [2025-12-01T17:05:55Z] "GET /wp-login.php HTTP/1.1" 200 2914
+10.0.0.5 - - [2025-12-01T17:48:05Z] "POST /api/data HTTP/1.1" 301 1385
+2025-12-01T18:03:45Z 10.0.0.12 sshd[6519]: Failed password for carol from 10.0.0.12 port 1890
+2025-12-01T18:37:58Z 10.0.0.12 EventID=4625 User=carol Msg=Privilege Assigned
+2025-12-01T17:02:55Z 10.0.0.5 EventID=4672 User=dave Msg=Logon Success
+2025-12-01T18:14:53Z 198.51.100.23 EventID=4624 User=alice Msg=Logon Success
+10.0.0.12 - - [2025-12-01T16:44:22Z] "GET /admin HTTP/1.1" 200 4585
+2025-12-01T17:19:50Z 198.51.100.23 sshd[1764]: Accepted password for alice from 198.51.100.23 port 18546
+10.0.0.12 - - [2025-12-01T17:17:40Z] "POST /login HTTP/1.1" 200 1547
+192.168.1.20 - - [2025-12-01T17:09:10Z] "POST /wp-login.php HTTP/1.1" 200 4745
+10.0.0.12 - - [2025-12-01T17:36:02Z] "POST /wp-login.php HTTP/1.1" 403 405
+10.0.0.12 - - [2025-12-01T16:52:11Z] "GET /api/data HTTP/1.1" 500 4691
+2025-12-01T17:35:35Z 203.0.113.50 sshd[8957]: Accepted password for dave from 203.0.113.50 port 35124
+2025-12-01T17:35:16Z 10.0.0.5 sshd[5994]: Accepted password for dave from 10.0.0.5 port 53241
+203.0.113.50 - - [2025-12-01T17:28:41Z] "POST /wp-login.php HTTP/1.1" 404 1657
+192.168.1.20 - - [2025-12-01T17:14:57Z] "POST /api/data HTTP/1.1" 200 1515
+10.0.0.5 - - [2025-12-01T18:26:01Z] "GET /wp-login.php HTTP/1.1" 403 3048
+192.168.1.20 - - [2025-12-01T17:28:58Z] "POST /wp-login.php HTTP/1.1" 500 4063
+203.0.113.50 - - [2025-12-01T18:08:41Z] "GET /login HTTP/1.1" 404 3470
+2025-12-01T17:44:16Z 198.51.100.23 EventID=4624 User=alice Msg=Logon Success
+2025-12-01T18:21:50Z 192.168.1.20 sshd[8779]: Accepted password for carol from 192.168.1.20 port 53583
+2025-12-01T18:06:12Z 192.168.1.20 EventID=4624 User=carol Msg=Privilege Assigned
+2025-12-01T17:39:14Z 10.0.0.12 sshd[2414]: Failed password for dave from 10.0.0.12 port 40243
+203.0.113.50 - - [2025-12-01T18:30:24Z] "POST /admin HTTP/1.1" 200 2940
+203.0.113.50 - - [2025-12-01T17:55:29Z] "POST / HTTP/1.1" 404 2582
+203.0.113.50 - - [2025-12-01T16:45:56Z] "GET /admin HTTP/1.1" 404 3025
+2025-12-01T17:27:40Z 10.0.0.12 sshd[5236]: Accepted password for carol from 10.0.0.12 port 27086
+198.51.100.23 - - [2025-12-01T18:24:12Z] "POST /login HTTP/1.1" 200 1293
+2025-12-01T18:38:47Z 10.0.0.5 sshd[3094]: Accepted password for bob from 10.0.0.5 port 30559
+198.51.100.23 - - [2025-12-01T18:10:26Z] "GET / HTTP/1.1" 404 1810
+2025-12-01T17:42:46Z 10.0.0.5 EventID=4624 User=dave Msg=Privilege Assigned
+2025-12-01T17:26:51Z 10.0.0.5 EventID=4624 User=eve Msg=Logon Failure
+2025-12-01T17:31:19Z 198.51.100.23 sshd[2126]: Accepted password for dave from 198.51.100.23 port 60163
+2025-12-01T16:44:46Z 198.51.100.23 sshd[2278]: Failed password for carol from 198.51.100.23 port 51337
+198.51.100.23 - - [2025-12-01T17:17:04Z] "GET /login HTTP/1.1" 200 4610
+2025-12-01T16:45:16Z 198.51.100.23 sshd[3835]: Accepted password for alice from 198.51.100.23 port 61179
+2025-12-01T17:46:59Z 10.0.0.12 EventID=4672 User=bob Msg=Logon Success
+198.51.100.23 - - [2025-12-01T17:04:21Z] "POST / HTTP/1.1" 200 409
+2025-12-01T17:28:35Z 198.51.100.23 EventID=4672 User=alice Msg=Privilege Assigned
+2025-12-01T18:18:48Z 192.168.1.20 sshd[3212]: Failed password for eve from 192.168.1.20 port 50578
+2025-12-01T17:10:11Z 192.168.1.20 EventID=4625 User=carol Msg=Logon Success
+2025-12-01T18:36:33Z 192.168.1.20 sshd[6674]: Accepted password for bob from 192.168.1.20 port 57890
+2025-12-01T17:07:34Z 10.0.0.12 sshd[7107]: Accepted password for eve from 10.0.0.12 port 23797
+2025-12-01T17:18:04Z 203.0.113.50 EventID=4672 User=bob Msg=Privilege Assigned
+2025-12-01T17:35:27Z 10.0.0.5 sshd[7066]: Failed password for dave from 10.0.0.5 port 52239
+10.0.0.5 - - [2025-12-01T18:21:36Z] "GET /login HTTP/1.1" 200 1504
+192.168.1.20 - - [2025-12-01T17:36:52Z] "POST /login HTTP/1.1" 301 1975
+2025-12-01T18:32:18Z 198.51.100.23 sshd[8525]: Accepted password for dave from 198.51.100.23 port 20948
+203.0.113.50 - - [2025-12-01T17:13:43Z] "POST /admin HTTP/1.1" 301 2932
+2025-12-01T17:26:42Z 10.0.0.5 sshd[5330]: Failed password for dave from 10.0.0.5 port 17887
+10.0.0.5 - - [2025-12-01T17:06:27Z] "GET /admin HTTP/1.1" 404 558
+2025-12-01T16:42:15Z 203.0.113.50 EventID=4625 User=dave Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T18:23:51Z] "GET /wp-login.php HTTP/1.1" 500 2892
+2025-12-01T16:58:25Z 10.0.0.5 sshd[1890]: Failed password for carol from 10.0.0.5 port 17925
+198.51.100.23 - - [2025-12-01T16:46:19Z] "POST / HTTP/1.1" 301 3697
+2025-12-01T17:05:29Z 192.168.1.20 EventID=4624 User=carol Msg=Logon Failure
+2025-12-01T17:58:02Z 203.0.113.50 sshd[6220]: Failed password for eve from 203.0.113.50 port 25786
+2025-12-01T16:49:15Z 203.0.113.50 sshd[3156]: Failed password for dave from 203.0.113.50 port 53349
+2025-12-01T16:53:35Z 10.0.0.12 EventID=4625 User=carol Msg=Privilege Assigned
+192.168.1.20 - - [2025-12-01T17:05:54Z] "POST /login HTTP/1.1" 301 2092
+2025-12-01T18:25:41Z 10.0.0.12 sshd[4118]: Accepted password for bob from 10.0.0.12 port 49253
+2025-12-01T18:22:56Z 10.0.0.5 sshd[1136]: Accepted password for carol from 10.0.0.5 port 51016
+2025-12-01T17:20:34Z 10.0.0.12 sshd[5153]: Accepted password for dave from 10.0.0.12 port 41409
+10.0.0.12 - - [2025-12-01T17:23:25Z] "GET /login HTTP/1.1" 404 1937
+10.0.0.12 - - [2025-12-01T18:32:22Z] "GET /admin HTTP/1.1" 200 2634
+2025-12-01T17:54:39Z 10.0.0.12 EventID=4624 User=bob Msg=Logon Success
+198.51.100.23 - - [2025-12-01T17:47:55Z] "GET /api/data HTTP/1.1" 200 565
+203.0.113.50 - - [2025-12-01T18:19:21Z] "POST / HTTP/1.1" 200 1002
+2025-12-01T17:53:11Z 10.0.0.5 sshd[2802]: Failed password for eve from 10.0.0.5 port 16970
+198.51.100.23 - - [2025-12-01T17:56:40Z] "POST /wp-login.php HTTP/1.1" 200 630
+2025-12-01T16:54:29Z 10.0.0.12 sshd[2346]: Failed password for eve from 10.0.0.12 port 52075
+2025-12-01T18:10:17Z 203.0.113.50 EventID=4625 User=dave Msg=Logon Success
+2025-12-01T17:16:29Z 192.168.1.20 sshd[4160]: Failed password for alice from 192.168.1.20 port 47680
+2025-12-01T18:11:27Z 192.168.1.20 sshd[8174]: Failed password for carol from 192.168.1.20 port 24270
+2025-12-01T18:33:46Z 10.0.0.12 sshd[9000]: Accepted password for dave from 10.0.0.12 port 24517
+2025-12-01T18:34:45Z 192.168.1.20 sshd[1999]: Failed password for bob from 192.168.1.20 port 19931
+2025-12-01T17:50:12Z 10.0.0.12 sshd[7457]: Accepted password for dave from 10.0.0.12 port 30021
+2025-12-01T18:03:43Z 10.0.0.5 sshd[5979]: Failed password for eve from 10.0.0.5 port 29133
+2025-12-01T17:21:57Z 203.0.113.50 sshd[8950]: Accepted password for dave from 203.0.113.50 port 37707
+2025-12-01T16:43:08Z 203.0.113.50 sshd[6931]: Failed password for alice from 203.0.113.50 port 20007
+2025-12-01T18:03:29Z 10.0.0.5 sshd[5721]: Accepted password for alice from 10.0.0.5 port 23764
+198.51.100.23 - - [2025-12-01T16:49:15Z] "POST /login HTTP/1.1" 301 698
+2025-12-01T17:42:15Z 192.168.1.20 sshd[2946]: Failed password for bob from 192.168.1.20 port 46640
+2025-12-01T18:38:03Z 10.0.0.12 sshd[1785]: Accepted password for bob from 10.0.0.12 port 56349
+2025-12-01T17:47:57Z 192.168.1.20 sshd[3490]: Failed password for alice from 192.168.1.20 port 50655
+2025-12-01T18:05:09Z 10.0.0.12 sshd[1628]: Accepted password for bob from 10.0.0.12 port 59378
+2025-12-01T18:02:57Z 10.0.0.5 sshd[4050]: Failed password for alice from 10.0.0.5 port 53838
+2025-12-01T17:16:03Z 10.0.0.12 EventID=4625 User=carol Msg=Logon Failure
+2025-12-01T17:41:38Z 10.0.0.5 sshd[3864]: Accepted password for dave from 10.0.0.5 port 52786
+203.0.113.50 - - [2025-12-01T17:13:12Z] "GET /api/data HTTP/1.1" 404 687
+198.51.100.23 - - [2025-12-01T17:47:31Z] "GET /admin HTTP/1.1" 404 4858
+2025-12-01T17:57:53Z 10.0.0.5 sshd[1358]: Accepted password for dave from 10.0.0.5 port 63534
+2025-12-01T18:30:10Z 192.168.1.20 sshd[8586]: Accepted password for alice from 192.168.1.20 port 26988
+2025-12-01T17:13:17Z 203.0.113.50 sshd[1342]: Failed password for eve from 203.0.113.50 port 44090
+2025-12-01T17:34:22Z 203.0.113.50 EventID=4625 User=dave Msg=Logon Failure
+2025-12-01T18:07:57Z 203.0.113.50 EventID=4672 User=bob Msg=Logon Failure
+2025-12-01T16:42:31Z 198.51.100.23 sshd[8163]: Failed password for eve from 198.51.100.23 port 58880
+2025-12-01T17:16:37Z 198.51.100.23 sshd[3851]: Accepted password for alice from 198.51.100.23 port 29894
+2025-12-01T18:03:24Z 192.168.1.20 sshd[7829]: Accepted password for bob from 192.168.1.20 port 10939
+2025-12-01T18:38:53Z 192.168.1.20 sshd[7943]: Accepted password for bob from 192.168.1.20 port 59218
+198.51.100.23 - - [2025-12-01T18:09:41Z] "GET / HTTP/1.1" 301 4738
+2025-12-01T18:40:04Z 203.0.113.50 EventID=4672 User=carol Msg=Privilege Assigned
+2025-12-01T17:54:37Z 192.168.1.20 sshd[2614]: Failed password for eve from 192.168.1.20 port 21601
+2025-12-01T17:00:43Z 192.168.1.20 sshd[8285]: Failed password for alice from 192.168.1.20 port 18434
+192.168.1.20 - - [2025-12-01T17:17:30Z] "GET /api/data HTTP/1.1" 200 1465
+2025-12-01T17:29:57Z 10.0.0.5 sshd[6237]: Failed password for alice from 10.0.0.5 port 1086
+2025-12-01T16:50:35Z 192.168.1.20 sshd[6784]: Failed password for carol from 192.168.1.20 port 52011
+10.0.0.5 - - [2025-12-01T16:52:14Z] "GET /admin HTTP/1.1" 301 3390
+2025-12-01T16:58:38Z 198.51.100.23 EventID=4625 User=carol Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T18:09:14Z] "GET /wp-login.php HTTP/1.1" 200 1545
+2025-12-01T18:00:44Z 10.0.0.12 EventID=4625 User=alice Msg=Logon Success
+203.0.113.50 - - [2025-12-01T16:41:55Z] "GET /login HTTP/1.1" 200 703
+2025-12-01T17:35:57Z 198.51.100.23 sshd[3179]: Failed password for carol from 198.51.100.23 port 28885
+2025-12-01T17:52:31Z 203.0.113.50 sshd[2428]: Failed password for eve from 203.0.113.50 port 28827
+10.0.0.5 - - [2025-12-01T16:46:52Z] "POST /wp-login.php HTTP/1.1" 404 4121
+2025-12-01T16:51:59Z 10.0.0.5 EventID=4672 User=bob Msg=Logon Failure
+2025-12-01T18:37:00Z 10.0.0.12 sshd[8708]: Failed password for eve from 10.0.0.12 port 63407
+10.0.0.5 - - [2025-12-01T18:27:26Z] "POST / HTTP/1.1" 403 1571
+198.51.100.23 - - [2025-12-01T16:50:59Z] "GET /admin HTTP/1.1" 500 1240
+198.51.100.23 - - [2025-12-01T17:29:03Z] "POST / HTTP/1.1" 500 4367
+192.168.1.20 - - [2025-12-01T17:37:14Z] "GET /wp-login.php HTTP/1.1" 200 2933
+2025-12-01T17:23:13Z 203.0.113.50 sshd[3417]: Accepted password for bob from 203.0.113.50 port 10654
+10.0.0.12 - - [2025-12-01T18:01:57Z] "POST /api/data HTTP/1.1" 301 2469
+2025-12-01T18:27:22Z 198.51.100.23 sshd[7873]: Failed password for dave from 198.51.100.23 port 61727
+192.168.1.20 - - [2025-12-01T17:16:46Z] "POST /login HTTP/1.1" 301 3974
+10.0.0.12 - - [2025-12-01T18:00:09Z] "POST /api/data HTTP/1.1" 500 159
+198.51.100.23 - - [2025-12-01T17:01:29Z] "POST /login HTTP/1.1" 403 3644
+203.0.113.50 - - [2025-12-01T18:05:41Z] "POST /wp-login.php HTTP/1.1" 500 170
+2025-12-01T17:07:03Z 203.0.113.50 sshd[1423]: Failed password for bob from 203.0.113.50 port 63710
+2025-12-01T17:57:06Z 10.0.0.12 EventID=4624 User=dave Msg=Privilege Assigned
+2025-12-01T16:41:29Z 10.0.0.5 sshd[4747]: Accepted password for carol from 10.0.0.5 port 51124
+2025-12-01T17:36:33Z 10.0.0.12 sshd[5591]: Failed password for dave from 10.0.0.12 port 18520
+2025-12-01T18:02:33Z 10.0.0.12 sshd[4334]: Accepted password for dave from 10.0.0.12 port 33106
+10.0.0.12 - - [2025-12-01T17:02:14Z] "POST /api/data HTTP/1.1" 200 2130
+192.168.1.20 - - [2025-12-01T18:00:44Z] "POST /login HTTP/1.1" 500 1204
+192.168.1.20 - - [2025-12-01T17:06:41Z] "GET /api/data HTTP/1.1" 500 604
+10.0.0.5 - - [2025-12-01T17:39:16Z] "GET /login HTTP/1.1" 200 2250
+2025-12-01T18:39:18Z 10.0.0.5 sshd[7533]: Accepted password for alice from 10.0.0.5 port 42364
+2025-12-01T17:53:11Z 198.51.100.23 sshd[2759]: Failed password for bob from 198.51.100.23 port 57244
+2025-12-01T18:02:14Z 203.0.113.50 sshd[6909]: Accepted password for carol from 203.0.113.50 port 35387
+2025-12-01T18:15:31Z 10.0.0.12 sshd[3802]: Accepted password for carol from 10.0.0.12 port 33032
+2025-12-01T18:03:35Z 10.0.0.5 sshd[4698]: Accepted password for eve from 10.0.0.5 port 39967
+2025-12-01T16:45:32Z 10.0.0.5 sshd[2226]: Accepted password for alice from 10.0.0.5 port 13209
+2025-12-01T18:00:52Z 198.51.100.23 sshd[7337]: Failed password for bob from 198.51.100.23 port 43527
+2025-12-01T16:41:44Z 198.51.100.23 sshd[1958]: Failed password for bob from 198.51.100.23 port 9650
+2025-12-01T17:41:22Z 10.0.0.5 sshd[4115]: Failed password for dave from 10.0.0.5 port 6106
+2025-12-01T17:46:32Z 10.0.0.5 sshd[3306]: Failed password for bob from 10.0.0.5 port 36722
+2025-12-01T16:41:11Z 10.0.0.5 sshd[8243]: Failed password for carol from 10.0.0.5 port 10759
+2025-12-01T17:16:36Z 192.168.1.20 sshd[5413]: Accepted password for dave from 192.168.1.20 port 41814
+2025-12-01T16:55:55Z 198.51.100.23 sshd[7828]: Failed password for eve from 198.51.100.23 port 32054
+2025-12-01T17:59:17Z 198.51.100.23 sshd[7337]: Accepted password for bob from 198.51.100.23 port 10394
+2025-12-01T18:11:50Z 192.168.1.20 EventID=4672 User=bob Msg=Logon Failure
+203.0.113.50 - - [2025-12-01T18:19:22Z] "GET /api/data HTTP/1.1" 301 4248
+2025-12-01T17:12:23Z 10.0.0.12 EventID=4672 User=bob Msg=Logon Success
+203.0.113.50 - - [2025-12-01T16:45:15Z] "GET / HTTP/1.1" 500 112
+2025-12-01T17:08:39Z 192.168.1.20 EventID=4625 User=eve Msg=Logon Success
+198.51.100.23 - - [2025-12-01T18:18:52Z] "GET /wp-login.php HTTP/1.1" 200 3764
+2025-12-01T16:46:08Z 192.168.1.20 sshd[4540]: Failed password for dave from 192.168.1.20 port 12629
+2025-12-01T16:53:34Z 198.51.100.23 sshd[3785]: Accepted password for eve from 198.51.100.23 port 12599
+2025-12-01T17:01:47Z 10.0.0.12 sshd[1477]: Failed password for eve from 10.0.0.12 port 14704
+2025-12-01T18:35:45Z 203.0.113.50 sshd[7509]: Accepted password for dave from 203.0.113.50 port 26614
+2025-12-01T17:23:49Z 10.0.0.12 EventID=4625 User=carol Msg=Logon Failure
+10.0.0.5 - - [2025-12-01T17:17:28Z] "POST /wp-login.php HTTP/1.1" 403 861
+2025-12-01T16:55:44Z 192.168.1.20 sshd[8236]: Accepted password for eve from 192.168.1.20 port 57025
+2025-12-01T18:32:05Z 10.0.0.12 EventID=4672 User=carol Msg=Privilege Assigned
+192.168.1.20 - - [2025-12-01T16:56:06Z] "POST /wp-login.php HTTP/1.1" 301 3227
+2025-12-01T17:13:00Z 198.51.100.23 EventID=4624 User=eve Msg=Logon Success
+2025-12-01T16:40:53Z 198.51.100.23 EventID=4625 User=bob Msg=Privilege Assigned
+2025-12-01T17:14:28Z 203.0.113.50 sshd[5275]: Failed password for carol from 203.0.113.50 port 6388
+198.51.100.23 - - [2025-12-01T16:41:17Z] "POST / HTTP/1.1" 301 3769
+2025-12-01T18:37:43Z 10.0.0.5 sshd[3468]: Accepted password for alice from 10.0.0.5 port 43454
+10.0.0.12 - - [2025-12-01T17:14:02Z] "GET / HTTP/1.1" 500 2472
+2025-12-01T17:50:50Z 192.168.1.20 sshd[8780]: Failed password for dave from 192.168.1.20 port 10183
+2025-12-01T17:57:03Z 192.168.1.20 sshd[1193]: Accepted password for dave from 192.168.1.20 port 60548
+203.0.113.50 - - [2025-12-01T18:09:31Z] "POST /admin HTTP/1.1" 404 4308
+2025-12-01T18:24:43Z 198.51.100.23 sshd[8271]: Failed password for eve from 198.51.100.23 port 36111
+192.168.1.20 - - [2025-12-01T17:52:57Z] "GET /login HTTP/1.1" 200 2037
+198.51.100.23 - - [2025-12-01T17:32:42Z] "GET / HTTP/1.1" 200 1325
+2025-12-01T17:36:03Z 10.0.0.12 sshd[7111]: Accepted password for carol from 10.0.0.12 port 38423
+2025-12-01T17:54:30Z 10.0.0.5 sshd[1738]: Accepted password for bob from 10.0.0.5 port 4530
+2025-12-01T18:11:10Z 203.0.113.99 sshd[8383]: Failed password for eve from 203.0.113.99 port 38341
+10.0.0.5 - - [2025-12-01T17:07:35Z] "POST /admin HTTP/1.1" 404 528
+192.168.1.20 - - [2025-12-01T17:01:22Z] "GET /admin HTTP/1.1" 500 3491
+2025-12-01T17:42:47Z 10.0.0.12 EventID=4672 User=carol Msg=Logon Failure
+2025-12-01T17:38:48Z 203.0.113.50 EventID=4625 User=eve Msg=Logon Failure
+2025-12-01T16:51:36Z 203.0.113.50 sshd[5154]: Accepted password for eve from 203.0.113.50 port 31120
+2025-12-01T16:43:54Z 10.0.0.5 sshd[3046]: Failed password for eve from 10.0.0.5 port 17943
+198.51.100.23 - - [2025-12-01T16:54:43Z] "POST /login HTTP/1.1" 301 3123
+203.0.113.50 - - [2025-12-01T17:29:14Z] "GET / HTTP/1.1" 500 2746
+2025-12-01T18:39:50Z 192.168.1.20 sshd[1096]: Accepted password for eve from 192.168.1.20 port 56945
+2025-12-01T17:55:24Z 203.0.113.50 sshd[7434]: Failed password for eve from 203.0.113.50 port 37699
+2025-12-01T18:26:10Z 10.0.0.12 EventID=4624 User=alice Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T18:17:53Z] "POST /admin HTTP/1.1" 500 3298
+2025-12-01T16:56:53Z 198.51.100.23 EventID=4624 User=bob Msg=Privilege Assigned
+10.0.0.12 - - [2025-12-01T17:20:36Z] "GET / HTTP/1.1" 404 1166
+192.168.1.20 - - [2025-12-01T17:44:43Z] "POST /api/data HTTP/1.1" 301 3505
+2025-12-01T17:36:20Z 10.0.0.5 sshd[1085]: Accepted password for alice from 10.0.0.5 port 59589
+2025-12-01T18:34:43Z 192.168.1.20 EventID=4624 User=eve Msg=Logon Failure
+2025-12-01T18:28:51Z 10.0.0.5 sshd[4081]: Accepted password for eve from 10.0.0.5 port 57125
+2025-12-01T17:05:26Z 10.0.0.5 sshd[1200]: Failed password for alice from 10.0.0.5 port 4505
+2025-12-01T18:18:23Z 10.0.0.12 sshd[1349]: Failed password for carol from 10.0.0.12 port 24040
+10.0.0.5 - - [2025-12-01T17:22:37Z] "GET /api/data HTTP/1.1" 200 3843
+2025-12-01T17:44:59Z 192.168.1.20 sshd[7327]: Accepted password for eve from 192.168.1.20 port 36635
+10.0.0.12 - - [2025-12-01T17:50:04Z] "POST /wp-login.php HTTP/1.1" 404 4364
+2025-12-01T17:31:17Z 192.168.1.20 sshd[2737]: Accepted password for carol from 192.168.1.20 port 45962
+192.168.1.20 - - [2025-12-01T16:52:27Z] "GET /api/data HTTP/1.1" 404 4756
+2025-12-01T17:15:36Z 10.0.0.12 sshd[4599]: Accepted password for alice from 10.0.0.12 port 53036
+2025-12-01T16:50:55Z 10.0.0.12 EventID=4624 User=carol Msg=Logon Success
+198.51.100.23 - - [2025-12-01T17:07:24Z] "GET /login HTTP/1.1" 500 3347
+10.0.0.12 - - [2025-12-01T17:27:26Z] "GET /admin HTTP/1.1" 200 4557
+2025-12-01T17:06:07Z 10.0.0.5 sshd[5127]: Accepted password for bob from 10.0.0.5 port 22600
+2025-12-01T16:48:13Z 198.51.100.23 sshd[6779]: Failed password for alice from 198.51.100.23 port 60611
+10.0.0.5 - - [2025-12-01T17:59:59Z] "GET / HTTP/1.1" 500 1603
+2025-12-01T17:10:52Z 10.0.0.5 sshd[6124]: Accepted password for alice from 10.0.0.5 port 9603
+2025-12-01T18:26:09Z 203.0.113.50 sshd[6794]: Accepted password for bob from 203.0.113.50 port 35388
+10.0.0.5 - - [2025-12-01T18:39:16Z] "GET /admin HTTP/1.1" 404 1282
+192.168.1.20 - - [2025-12-01T16:43:06Z] "GET /admin HTTP/1.1" 404 1053
+203.0.113.50 - - [2025-12-01T18:00:46Z] "GET /login HTTP/1.1" 404 2202
+2025-12-01T17:10:35Z 10.0.0.12 sshd[7060]: Failed password for carol from 10.0.0.12 port 32747
+2025-12-01T18:36:04Z 10.0.0.12 EventID=4625 User=carol Msg=Privilege Assigned
+10.0.0.12 - - [2025-12-01T18:39:47Z] "GET /login HTTP/1.1" 200 196
+2025-12-01T17:46:20Z 203.0.113.50 sshd[7737]: Failed password for dave from 203.0.113.50 port 59386
+2025-12-01T16:49:44Z 203.0.113.50 sshd[2565]: Failed password for bob from 203.0.113.50 port 5949
+2025-12-01T17:48:22Z 203.0.113.50 sshd[8020]: Failed password for eve from 203.0.113.50 port 46073
+2025-12-01T17:08:41Z 10.0.0.12 sshd[6742]: Failed password for alice from 10.0.0.12 port 57229
+2025-12-01T18:32:06Z 203.0.113.50 sshd[7239]: Accepted password for carol from 203.0.113.50 port 20722
+192.168.1.20 - - [2025-12-01T17:53:48Z] "POST /wp-login.php HTTP/1.1" 500 4191
+2025-12-01T18:33:27Z 10.0.0.5 sshd[5553]: Failed password for eve from 10.0.0.5 port 29608
+198.51.100.23 - - [2025-12-01T18:00:27Z] "GET /wp-login.php HTTP/1.1" 200 1545
+10.0.0.5 - - [2025-12-01T16:52:02Z] "GET /login HTTP/1.1" 301 1666
+2025-12-01T18:26:15Z 198.51.100.23 sshd[6495]: Failed password for dave from 198.51.100.23 port 16862
+2025-12-01T17:21:25Z 203.0.113.50 EventID=4624 User=alice Msg=Privilege Assigned
+2025-12-01T17:04:39Z 10.0.0.12 sshd[7570]: Accepted password for carol from 10.0.0.12 port 19333
+10.0.0.12 - - [2025-12-01T18:15:03Z] "GET / HTTP/1.1" 200 3945
+2025-12-01T17:22:06Z 10.0.0.5 sshd[2897]: Accepted password for carol from 10.0.0.5 port 8530
+198.51.100.23 - - [2025-12-01T16:53:53Z] "POST /login HTTP/1.1" 404 2773
+198.51.100.23 - - [2025-12-01T17:51:30Z] "GET /api/data HTTP/1.1" 500 183
+2025-12-01T18:00:18Z 10.0.0.5 sshd[8338]: Failed password for bob from 10.0.0.5 port 28484
+2025-12-01T17:45:20Z 10.0.0.12 sshd[3210]: Accepted password for bob from 10.0.0.12 port 15808
+2025-12-01T18:02:05Z 203.0.113.50 sshd[2948]: Accepted password for eve from 203.0.113.50 port 61671
+2025-12-01T18:17:11Z 203.0.113.50 sshd[4786]: Accepted password for bob from 203.0.113.50 port 20896
+203.0.113.50 - - [2025-12-01T18:27:47Z] "GET / HTTP/1.1" 500 1781
+2025-12-01T17:36:47Z 10.0.0.5 EventID=4672 User=carol Msg=Logon Failure
+10.0.0.12 - - [2025-12-01T17:03:01Z] "GET /wp-login.php HTTP/1.1" 200 815
+198.51.100.23 - - [2025-12-01T17:20:09Z] "GET / HTTP/1.1" 404 178
+2025-12-01T16:56:35Z 10.0.0.5 sshd[7216]: Failed password for dave from 10.0.0.5 port 16638
+2025-12-01T16:45:40Z 198.51.100.23 EventID=4625 User=dave Msg=Logon Success
+192.168.1.20 - - [2025-12-01T17:38:57Z] "GET /admin HTTP/1.1" 500 2560
+198.51.100.23 - - [2025-12-01T17:48:35Z] "GET / HTTP/1.1" 301 1991
+2025-12-01T16:56:29Z 10.0.0.5 EventID=4625 User=bob Msg=Logon Success
+2025-12-01T18:19:26Z 192.168.1.20 EventID=4625 User=alice Msg=Logon Failure
+2025-12-01T18:02:27Z 203.0.113.50 sshd[6082]: Failed password for bob from 203.0.113.50 port 30152
+2025-12-01T17:27:51Z 192.168.1.20 sshd[4636]: Failed password for carol from 192.168.1.20 port 22488
+198.51.100.23 - - [2025-12-01T17:26:05Z] "POST /login HTTP/1.1" 301 1294
+2025-12-01T18:12:45Z 10.0.0.5 EventID=4624 User=carol Msg=Privilege Assigned
+198.51.100.23 - - [2025-12-01T18:16:49Z] "POST /login HTTP/1.1" 301 531
+2025-12-01T18:32:27Z 203.0.113.50 sshd[8141]: Accepted password for carol from 203.0.113.50 port 13895
+203.0.113.50 - - [2025-12-01T17:24:55Z] "POST / HTTP/1.1" 200 3812
+2025-12-01T18:21:59Z 10.0.0.5 sshd[3274]: Failed password for eve from 10.0.0.5 port 32062
+2025-12-01T17:04:56Z 10.0.0.12 EventID=4625 User=bob Msg=Logon Failure
+2025-12-01T18:13:19Z 10.0.0.5 sshd[1568]: Failed password for carol from 10.0.0.5 port 27014
+2025-12-01T16:51:54Z 198.51.100.23 EventID=4624 User=carol Msg=Privilege Assigned
+2025-12-01T16:58:24Z 10.0.0.5 sshd[7916]: Accepted password for carol from 10.0.0.5 port 16890
+2025-12-01T17:18:02Z 10.0.0.12 sshd[1233]: Accepted password for alice from 10.0.0.12 port 28403
+2025-12-01T18:11:20Z 203.0.113.99 sshd[8075]: Failed password for bob from 203.0.113.99 port 57607
+2025-12-01T16:57:04Z 198.51.100.23 EventID=4672 User=alice Msg=Logon Success
+2025-12-01T18:28:11Z 198.51.100.23 sshd[6648]: Accepted password for eve from 198.51.100.23 port 34999
+2025-12-01T17:22:14Z 203.0.113.50 EventID=4672 User=eve Msg=Logon Success
+198.51.100.23 - - [2025-12-01T16:56:55Z] "POST / HTTP/1.1" 500 2546
+2025-12-01T17:24:02Z 203.0.113.50 EventID=4672 User=bob Msg=Logon Failure
+2025-12-01T18:14:27Z 10.0.0.5 sshd[6011]: Failed password for eve from 10.0.0.5 port 56983
+2025-12-01T16:52:01Z 198.51.100.23 sshd[7865]: Failed password for alice from 198.51.100.23 port 28219
+2025-12-01T17:19:43Z 192.168.1.20 sshd[8353]: Accepted password for carol from 192.168.1.20 port 38084
+2025-12-01T18:26:29Z 198.51.100.23 EventID=4625 User=carol Msg=Logon Success
+2025-12-01T17:10:13Z 10.0.0.12 sshd[2075]: Accepted password for carol from 10.0.0.12 port 33573
+2025-12-01T17:08:13Z 203.0.113.50 sshd[4195]: Failed password for carol from 203.0.113.50 port 64479
+2025-12-01T17:37:15Z 10.0.0.12 sshd[4312]: Accepted password for eve from 10.0.0.12 port 9546
+2025-12-01T17:01:58Z 198.51.100.23 sshd[3786]: Failed password for bob from 198.51.100.23 port 14872
+2025-12-01T16:43:50Z 10.0.0.5 sshd[4618]: Accepted password for alice from 10.0.0.5 port 11509
+192.168.1.20 - - [2025-12-01T17:50:57Z] "POST /admin HTTP/1.1" 403 1763
+10.0.0.12 - - [2025-12-01T17:10:33Z] "POST /login HTTP/1.1" 200 2306
+2025-12-01T18:08:49Z 203.0.113.50 sshd[8821]: Failed password for eve from 203.0.113.50 port 4104
+10.0.0.5 - - [2025-12-01T17:40:16Z] "POST /login HTTP/1.1" 403 2583
+2025-12-01T18:03:41Z 203.0.113.50 sshd[6205]: Failed password for dave from 203.0.113.50 port 27375
+2025-12-01T17:36:41Z 192.168.1.20 sshd[6573]: Accepted password for alice from 192.168.1.20 port 20114
+2025-12-01T18:13:11Z 10.0.0.5 sshd[8938]: Failed password for bob from 10.0.0.5 port 22173
+10.0.0.12 - - [2025-12-01T17:36:22Z] "POST /admin HTTP/1.1" 200 3737
+10.0.0.12 - - [2025-12-01T18:26:00Z] "GET /admin HTTP/1.1" 200 3514
+2025-12-01T16:46:35Z 198.51.100.23 sshd[6645]: Accepted password for alice from 198.51.100.23 port 64809
+2025-12-01T17:47:30Z 10.0.0.12 sshd[1693]: Failed password for dave from 10.0.0.12 port 10035
+2025-12-01T16:43:30Z 10.0.0.12 sshd[7268]: Accepted password for bob from 10.0.0.12 port 19042
+2025-12-01T18:04:20Z 203.0.113.50 sshd[8599]: Failed password for alice from 203.0.113.50 port 51786
+203.0.113.50 - - [2025-12-01T17:17:10Z] "GET /wp-login.php HTTP/1.1" 404 619
+2025-12-01T18:35:56Z 198.51.100.23 sshd[5405]: Accepted password for carol from 198.51.100.23 port 40230
+203.0.113.50 - - [2025-12-01T16:47:23Z] "POST /admin HTTP/1.1" 301 4539
+10.0.0.12 - - [2025-12-01T18:19:31Z] "POST /wp-login.php HTTP/1.1" 200 314
+2025-12-01T18:31:40Z 203.0.113.50 sshd[7114]: Accepted password for bob from 203.0.113.50 port 37495
+2025-12-01T16:59:04Z 203.0.113.50 sshd[8762]: Accepted password for eve from 203.0.113.50 port 1880
+198.51.100.23 - - [2025-12-01T18:11:03Z] "GET /api/data HTTP/1.1" 200 2985
+2025-12-01T18:11:45Z 203.0.113.99 sshd[3066]: Failed password for carol from 203.0.113.99 port 50103
+2025-12-01T16:49:31Z 198.51.100.23 sshd[5819]: Failed password for eve from 198.51.100.23 port 41145
+192.168.1.20 - - [2025-12-01T17:35:45Z] "GET /login HTTP/1.1" 500 2204
+2025-12-01T18:19:03Z 10.0.0.12 EventID=4624 User=dave Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T17:12:45Z] "POST /login HTTP/1.1" 500 2393
+10.0.0.5 - - [2025-12-01T18:36:04Z] "POST /login HTTP/1.1" 301 1472
+198.51.100.23 - - [2025-12-01T17:27:52Z] "GET /login HTTP/1.1" 404 1295
+192.168.1.20 - - [2025-12-01T18:01:53Z] "GET /login HTTP/1.1" 200 2839
+192.168.1.20 - - [2025-12-01T18:23:13Z] "GET /login HTTP/1.1" 200 442
+203.0.113.50 - - [2025-12-01T18:01:03Z] "GET / HTTP/1.1" 500 2194
+192.168.1.20 - - [2025-12-01T17:39:24Z] "POST /api/data HTTP/1.1" 200 2784
+10.0.0.5 - - [2025-12-01T18:11:19Z] "POST /admin HTTP/1.1" 500 3964
+192.168.1.20 - - [2025-12-01T17:41:59Z] "GET /api/data HTTP/1.1" 200 2021
+2025-12-01T17:16:44Z 10.0.0.12 sshd[8876]: Failed password for bob from 10.0.0.12 port 2332
+2025-12-01T17:06:42Z 10.0.0.5 EventID=4672 User=carol Msg=Logon Failure
+2025-12-01T17:04:03Z 192.168.1.20 sshd[6489]: Failed password for bob from 192.168.1.20 port 1319
+2025-12-01T16:46:04Z 198.51.100.23 sshd[8580]: Failed password for dave from 198.51.100.23 port 5236
+2025-12-01T16:43:13Z 10.0.0.5 EventID=4624 User=carol Msg=Logon Success
+203.0.113.50 - - [2025-12-01T18:22:39Z] "GET /api/data HTTP/1.1" 404 4995
+2025-12-01T18:19:08Z 192.168.1.20 EventID=4672 User=eve Msg=Privilege Assigned
+203.0.113.50 - - [2025-12-01T17:25:59Z] "GET / HTTP/1.1" 404 886
+2025-12-01T17:59:15Z 10.0.0.12 EventID=4625 User=alice Msg=Privilege Assigned
+2025-12-01T17:25:46Z 192.168.1.20 sshd[3466]: Failed password for bob from 192.168.1.20 port 18851
+2025-12-01T18:29:53Z 203.0.113.50 EventID=4624 User=alice Msg=Logon Failure
+2025-12-01T18:32:41Z 203.0.113.50 sshd[8598]: Failed password for carol from 203.0.113.50 port 39128
+203.0.113.50 - - [2025-12-01T17:23:04Z] "POST /login HTTP/1.1" 500 248
+2025-12-01T17:44:49Z 203.0.113.50 sshd[3013]: Failed password for dave from 203.0.113.50 port 52560
+2025-12-01T16:43:12Z 192.168.1.20 EventID=4625 User=eve Msg=Privilege Assigned
+2025-12-01T18:08:03Z 10.0.0.5 sshd[6021]: Accepted password for carol from 10.0.0.5 port 13461
+10.0.0.12 - - [2025-12-01T17:02:30Z] "POST /admin HTTP/1.1" 301 2327
+2025-12-01T17:51:56Z 10.0.0.12 EventID=4624 User=dave Msg=Logon Success
+2025-12-01T18:10:50Z 203.0.113.99 sshd[6108]: Failed password for dave from 203.0.113.99 port 59559
+203.0.113.50 - - [2025-12-01T18:25:35Z] "GET /wp-login.php HTTP/1.1" 500 205
+2025-12-01T18:12:05Z 203.0.113.99 sshd[6470]: Failed password for alice from 203.0.113.99 port 35742
+2025-12-01T18:17:03Z 198.51.100.23 sshd[6700]: Failed password for dave from 198.51.100.23 port 29579
+2025-12-01T18:25:48Z 198.51.100.23 EventID=4624 User=alice Msg=Logon Success
+2025-12-01T17:40:19Z 10.0.0.12 sshd[5862]: Failed password for alice from 10.0.0.12 port 47567
+2025-12-01T17:08:43Z 192.168.1.20 sshd[6760]: Accepted password for eve from 192.168.1.20 port 5367
+2025-12-01T17:57:23Z 192.168.1.20 sshd[1776]: Accepted password for eve from 192.168.1.20 port 33273
+192.168.1.20 - - [2025-12-01T17:12:53Z] "POST /wp-login.php HTTP/1.1" 200 4833
+198.51.100.23 - - [2025-12-01T17:10:15Z] "GET /login HTTP/1.1" 500 2882
+2025-12-01T17:24:05Z 198.51.100.23 sshd[3780]: Accepted password for eve from 198.51.100.23 port 42211
+2025-12-01T17:04:52Z 10.0.0.5 sshd[6204]: Failed password for dave from 10.0.0.5 port 38145
+2025-12-01T17:51:46Z 198.51.100.23 sshd[4956]: Failed password for dave from 198.51.100.23 port 43707
+2025-12-01T17:51:31Z 192.168.1.20 sshd[2563]: Accepted password for carol from 192.168.1.20 port 40228
+2025-12-01T17:13:48Z 10.0.0.5 EventID=4672 User=bob Msg=Logon Failure
+192.168.1.20 - - [2025-12-01T18:00:55Z] "GET /admin HTTP/1.1" 404 931
+2025-12-01T17:05:08Z 10.0.0.5 sshd[1719]: Accepted password for dave from 10.0.0.5 port 61926
+203.0.113.50 - - [2025-12-01T18:29:32Z] "POST / HTTP/1.1" 200 3308
+2025-12-01T16:45:20Z 203.0.113.50 EventID=4672 User=carol Msg=Privilege Assigned
+192.168.1.20 - - [2025-12-01T18:09:30Z] "GET /api/data HTTP/1.1" 200 1359
+2025-12-01T18:38:26Z 198.51.100.23 EventID=4672 User=eve Msg=Logon Failure
+2025-12-01T17:29:11Z 192.168.1.20 EventID=4625 User=alice Msg=Logon Success
+2025-12-01T18:12:29Z 203.0.113.50 sshd[2995]: Accepted password for bob from 203.0.113.50 port 2357
+10.0.0.5 - - [2025-12-01T17:18:18Z] "POST /admin HTTP/1.1" 200 1028
+2025-12-01T18:17:32Z 192.168.1.20 sshd[2744]: Accepted password for dave from 192.168.1.20 port 24528
+2025-12-01T17:10:07Z 198.51.100.23 sshd[3290]: Failed password for alice from 198.51.100.23 port 64169
+2025-12-01T17:17:09Z 10.0.0.5 sshd[1716]: Failed password for alice from 10.0.0.5 port 27474
+10.0.0.5 - - [2025-12-01T17:52:47Z] "GET /login HTTP/1.1" 200 4455
+203.0.113.50 - - [2025-12-01T18:22:28Z] "POST / HTTP/1.1" 403 2415
+2025-12-01T16:42:00Z 192.168.1.20 sshd[5535]: Failed password for dave from 192.168.1.20 port 13779
+2025-12-01T17:42:44Z 10.0.0.12 sshd[4313]: Failed password for alice from 10.0.0.12 port 13056
+10.0.0.5 - - [2025-12-01T18:08:52Z] "GET / HTTP/1.1" 200 2013
+2025-12-01T17:58:27Z 10.0.0.5 sshd[6838]: Accepted password for eve from 10.0.0.5 port 13659
+2025-12-01T17:14:25Z 203.0.113.50 sshd[3319]: Accepted password for carol from 203.0.113.50 port 45302
+2025-12-01T17:44:28Z 203.0.113.50 sshd[1188]: Accepted password for alice from 203.0.113.50 port 27831
+2025-12-01T17:41:06Z 192.168.1.20 sshd[4917]: Failed password for dave from 192.168.1.20 port 2854
+2025-12-01T17:43:29Z 10.0.0.12 sshd[8531]: Failed password for carol from 10.0.0.12 port 51604
+2025-12-01T17:34:03Z 10.0.0.5 sshd[6765]: Failed password for dave from 10.0.0.5 port 8053
+2025-12-01T17:51:46Z 192.168.1.20 sshd[5216]: Failed password for alice from 192.168.1.20 port 39997
+2025-12-01T18:32:28Z 10.0.0.12 EventID=4672 User=carol Msg=Privilege Assigned
+2025-12-01T17:41:44Z 192.168.1.20 sshd[2655]: Failed password for carol from 192.168.1.20 port 63360
+2025-12-01T16:49:01Z 203.0.113.50 sshd[2870]: Failed password for carol from 203.0.113.50 port 14233
+2025-12-01T18:38:19Z 10.0.0.12 EventID=4625 User=dave Msg=Logon Success
+2025-12-01T17:58:21Z 10.0.0.12 sshd[6848]: Accepted password for alice from 10.0.0.12 port 22451
+203.0.113.50 - - [2025-12-01T17:15:54Z] "POST /admin HTTP/1.1" 404 1396
+10.0.0.5 - - [2025-12-01T18:12:45Z] "GET /admin HTTP/1.1" 301 635
+2025-12-01T17:17:47Z 10.0.0.12 sshd[6533]: Failed password for alice from 10.0.0.12 port 1257
+10.0.0.5 - - [2025-12-01T17:02:09Z] "POST /api/data HTTP/1.1" 200 350
+2025-12-01T18:12:10Z 203.0.113.99 sshd[4867]: Failed password for carol from 203.0.113.99 port 1659
+2025-12-01T18:07:26Z 198.51.100.23 sshd[1768]: Accepted password for carol from 198.51.100.23 port 38613
+2025-12-01T17:21:58Z 10.0.0.12 sshd[7905]: Failed password for dave from 10.0.0.12 port 37649
+2025-12-01T16:44:47Z 198.51.100.23 sshd[4475]: Failed password for bob from 198.51.100.23 port 12548
+2025-12-01T17:31:02Z 203.0.113.50 EventID=4625 User=dave Msg=Logon Failure
+2025-12-01T17:56:31Z 203.0.113.50 EventID=4672 User=carol Msg=Logon Success
+2025-12-01T17:14:12Z 203.0.113.50 sshd[5343]: Failed password for dave from 203.0.113.50 port 19187
+192.168.1.20 - - [2025-12-01T18:15:00Z] "POST /login HTTP/1.1" 200 3397
+2025-12-01T16:49:48Z 203.0.113.50 sshd[7439]: Accepted password for eve from 203.0.113.50 port 41549
+2025-12-01T17:08:03Z 10.0.0.5 sshd[7758]: Failed password for alice from 10.0.0.5 port 15032
+198.51.100.23 - - [2025-12-01T18:20:03Z] "GET /api/data HTTP/1.1" 200 2636
+192.168.1.20 - - [2025-12-01T18:08:28Z] "GET /login HTTP/1.1" 403 1807
+2025-12-01T18:05:01Z 10.0.0.12 EventID=4624 User=bob Msg=Logon Failure
+192.168.1.20 - - [2025-12-01T18:10:46Z] "POST / HTTP/1.1" 403 4026
+2025-12-01T18:35:03Z 203.0.113.50 sshd[2707]: Failed password for eve from 203.0.113.50 port 54296
+2025-12-01T17:38:51Z 10.0.0.12 sshd[4271]: Failed password for carol from 10.0.0.12 port 56286
+2025-12-01T17:26:28Z 198.51.100.23 sshd[2455]: Accepted password for alice from 198.51.100.23 port 64126
+10.0.0.12 - - [2025-12-01T17:08:38Z] "GET /admin HTTP/1.1" 301 1996
+2025-12-01T16:44:26Z 192.168.1.20 sshd[4243]: Failed password for bob from 192.168.1.20 port 3336
+2025-12-01T17:42:51Z 10.0.0.12 sshd[3886]: Accepted password for carol from 10.0.0.12 port 9234
+2025-12-01T18:22:13Z 10.0.0.5 EventID=4625 User=bob Msg=Logon Success
+2025-12-01T16:57:19Z 192.168.1.20 sshd[1934]: Failed password for bob from 192.168.1.20 port 63188
+2025-12-01T17:07:35Z 10.0.0.5 sshd[6859]: Failed password for carol from 10.0.0.5 port 46866
+2025-12-01T18:14:14Z 10.0.0.5 sshd[2389]: Accepted password for carol from 10.0.0.5 port 28466
+2025-12-01T17:36:04Z 203.0.113.50 sshd[1509]: Failed password for eve from 203.0.113.50 port 19192
+2025-12-01T18:13:55Z 192.168.1.20 sshd[3941]: Failed password for bob from 192.168.1.20 port 38379
+2025-12-01T17:01:48Z 10.0.0.5 sshd[3867]: Accepted password for carol from 10.0.0.5 port 24965
+192.168.1.20 - - [2025-12-01T18:04:29Z] "POST /api/data HTTP/1.1" 200 1154
+2025-12-01T17:09:42Z 192.168.1.20 EventID=4625 User=dave Msg=Logon Success
+192.168.1.20 - - [2025-12-01T17:41:29Z] "POST / HTTP/1.1" 404 1366
+2025-12-01T17:41:41Z 198.51.100.23 EventID=4672 User=dave Msg=Logon Failure
+10.0.0.12 - - [2025-12-01T16:51:42Z] "GET /api/data HTTP/1.1" 404 409
+2025-12-01T17:10:27Z 198.51.100.23 EventID=4672 User=alice Msg=Logon Success
+2025-12-01T18:21:01Z 203.0.113.50 sshd[2381]: Failed password for bob from 203.0.113.50 port 22701
+2025-12-01T16:48:12Z 192.168.1.20 sshd[5892]: Accepted password for dave from 192.168.1.20 port 64088
+2025-12-01T18:25:42Z 10.0.0.5 sshd[8051]: Failed password for bob from 10.0.0.5 port 19923
+2025-12-01T17:06:50Z 10.0.0.5 sshd[2769]: Failed password for bob from 10.0.0.5 port 60820
+2025-12-01T18:33:12Z 10.0.0.5 sshd[4962]: Failed password for bob from 10.0.0.5 port 27542
+2025-12-01T17:30:53Z 10.0.0.5 sshd[7090]: Accepted password for dave from 10.0.0.5 port 24042
+10.0.0.12 - - [2025-12-01T16:43:55Z] "POST / HTTP/1.1" 500 4185
+2025-12-01T17:05:45Z 203.0.113.50 sshd[6281]: Failed password for bob from 203.0.113.50 port 37786
+2025-12-01T18:36:08Z 10.0.0.12 EventID=4625 User=alice Msg=Logon Failure
+2025-12-01T16:41:05Z 203.0.113.50 sshd[4684]: Accepted password for eve from 203.0.113.50 port 40931
+2025-12-01T16:49:23Z 198.51.100.23 sshd[7719]: Failed password for dave from 198.51.100.23 port 58443
+198.51.100.23 - - [2025-12-01T17:13:15Z] "GET /admin HTTP/1.1" 500 1221
+192.168.1.20 - - [2025-12-01T17:25:58Z] "POST /admin HTTP/1.1" 403 3789
+10.0.0.12 - - [2025-12-01T18:10:44Z] "GET /admin HTTP/1.1" 404 2875
+10.0.0.5 - - [2025-12-01T17:51:46Z] "GET / HTTP/1.1" 500 120
+2025-12-01T17:20:06Z 10.0.0.5 EventID=4672 User=eve Msg=Logon Success
+2025-12-01T18:24:02Z 198.51.100.23 sshd[5459]: Failed password for eve from 198.51.100.23 port 7788
+2025-12-01T18:07:29Z 203.0.113.50 EventID=4672 User=dave Msg=Privilege Assigned
+10.0.0.5 - - [2025-12-01T17:03:18Z] "GET /admin HTTP/1.1" 200 4164
+2025-12-01T18:38:47Z 10.0.0.12 sshd[6307]: Failed password for eve from 10.0.0.12 port 41763
+203.0.113.50 - - [2025-12-01T16:56:05Z] "GET /login HTTP/1.1" 403 3104
+2025-12-01T16:49:49Z 10.0.0.12 sshd[3386]: Failed password for bob from 10.0.0.12 port 17343
+2025-12-01T18:02:57Z 203.0.113.50 sshd[7381]: Accepted password for alice from 203.0.113.50 port 56096
+10.0.0.12 - - [2025-12-01T18:36:56Z] "GET / HTTP/1.1" 403 1553
+2025-12-01T17:31:43Z 203.0.113.50 sshd[4598]: Failed password for carol from 203.0.113.50 port 14630
+2025-12-01T18:19:21Z 203.0.113.50 sshd[6512]: Failed password for carol from 203.0.113.50 port 41133
+192.168.1.20 - - [2025-12-01T17:36:33Z] "GET /wp-login.php HTTP/1.1" 403 128
+2025-12-01T17:01:08Z 192.168.1.20 EventID=4624 User=alice Msg=Privilege Assigned
+2025-12-01T18:33:48Z 203.0.113.50 sshd[4151]: Failed password for eve from 203.0.113.50 port 18509
+2025-12-01T18:12:00Z 203.0.113.99 sshd[5445]: Failed password for dave from 203.0.113.99 port 57496
+2025-12-01T17:37:25Z 10.0.0.12 sshd[8784]: Accepted password for bob from 10.0.0.12 port 49266
+2025-12-01T18:07:12Z 10.0.0.12 EventID=4624 User=dave Msg=Logon Failure
+2025-12-01T17:44:09Z 10.0.0.5 sshd[1403]: Accepted password for eve from 10.0.0.5 port 42126
+2025-12-01T17:17:05Z 10.0.0.5 sshd[4685]: Accepted password for carol from 10.0.0.5 port 49647
+2025-12-01T18:39:49Z 198.51.100.23 sshd[2141]: Failed password for bob from 198.51.100.23 port 43600
+2025-12-01T18:35:00Z 192.168.1.20 sshd[4726]: Failed password for eve from 192.168.1.20 port 50544
+10.0.0.12 - - [2025-12-01T16:47:36Z] "POST /wp-login.php HTTP/1.1" 500 3220
+2025-12-01T17:58:16Z 203.0.113.50 sshd[6643]: Failed password for alice from 203.0.113.50 port 39830
+2025-12-01T18:36:40Z 10.0.0.5 sshd[5804]: Accepted password for bob from 10.0.0.5 port 45310
+10.0.0.5 - - [2025-12-01T17:17:59Z] "POST /admin HTTP/1.1" 301 1703
+192.168.1.20 - - [2025-12-01T18:15:02Z] "GET /api/data HTTP/1.1" 500 2881
+10.0.0.12 - - [2025-12-01T16:53:16Z] "POST / HTTP/1.1" 500 886
+2025-12-01T17:41:38Z 198.51.100.23 sshd[4933]: Failed password for alice from 198.51.100.23 port 22170
+2025-12-01T18:29:23Z 198.51.100.23 sshd[6469]: Failed password for dave from 198.51.100.23 port 2004
+2025-12-01T17:59:17Z 192.168.1.20 sshd[5580]: Accepted password for eve from 192.168.1.20 port 33627
+2025-12-01T17:21:12Z 198.51.100.23 sshd[8983]: Failed password for carol from 198.51.100.23 port 6760
+2025-12-01T17:54:11Z 10.0.0.5 sshd[8048]: Accepted password for eve from 10.0.0.5 port 29353
+10.0.0.12 - - [2025-12-01T17:44:52Z] "GET /login HTTP/1.1" 404 1348
+2025-12-01T17:28:10Z 198.51.100.23 sshd[8543]: Failed password for carol from 198.51.100.23 port 63842
+203.0.113.50 - - [2025-12-01T16:48:54Z] "GET /api/data HTTP/1.1" 301 1396
+10.0.0.12 - - [2025-12-01T16:44:43Z] "GET /login HTTP/1.1" 301 3788
+2025-12-01T18:39:49Z 10.0.0.12 sshd[7093]: Accepted password for alice from 10.0.0.12 port 41188
+2025-12-01T18:30:25Z 10.0.0.12 sshd[3241]: Accepted password for bob from 10.0.0.12 port 53439
+2025-12-01T17:01:50Z 192.168.1.20 sshd[2192]: Failed password for dave from 192.168.1.20 port 54194
+2025-12-01T17:42:43Z 203.0.113.50 sshd[5277]: Failed password for dave from 203.0.113.50 port 42474
+2025-12-01T17:57:32Z 203.0.113.50 EventID=4672 User=eve Msg=Logon Failure
+198.51.100.23 - - [2025-12-01T18:10:24Z] "POST / HTTP/1.1" 500 4541
+2025-12-01T17:06:40Z 203.0.113.50 sshd[5874]: Failed password for carol from 203.0.113.50 port 53836
+203.0.113.50 - - [2025-12-01T18:01:31Z] "GET /wp-login.php HTTP/1.1" 200 3696
+2025-12-01T17:22:30Z 10.0.0.12 EventID=4624 User=dave Msg=Logon Failure
+2025-12-01T18:33:15Z 192.168.1.20 sshd[7139]: Failed password for alice from 192.168.1.20 port 5522
+192.168.1.20 - - [2025-12-01T17:10:08Z] "POST /admin HTTP/1.1" 404 4881
+2025-12-01T16:48:54Z 198.51.100.23 sshd[5965]: Failed password for bob from 198.51.100.23 port 8003
+2025-12-01T17:32:29Z 192.168.1.20 sshd[5185]: Accepted password for eve from 192.168.1.20 port 23289
+2025-12-01T18:14:09Z 192.168.1.20 EventID=4672 User=alice Msg=Privilege Assigned
+2025-12-01T17:14:01Z 10.0.0.5 sshd[3448]: Accepted password for eve from 10.0.0.5 port 35733
+2025-12-01T18:12:33Z 198.51.100.23 sshd[1169]: Accepted password for eve from 198.51.100.23 port 20553
+192.168.1.20 - - [2025-12-01T17:34:45Z] "GET / HTTP/1.1" 403 2627
+192.168.1.20 - - [2025-12-01T17:46:11Z] "GET /admin HTTP/1.1" 500 4956
+10.0.0.5 - - [2025-12-01T18:06:06Z] "GET /admin HTTP/1.1" 404 175
+2025-12-01T18:01:48Z 10.0.0.5 sshd[3148]: Failed password for carol from 10.0.0.5 port 43725
+2025-12-01T18:11:40Z 203.0.113.99 sshd[6475]: Failed password for eve from 203.0.113.99 port 9915
+192.168.1.20 - - [2025-12-01T17:59:51Z] "POST /admin HTTP/1.1" 200 1426
+2025-12-01T16:52:57Z 198.51.100.23 sshd[8283]: Failed password for carol from 198.51.100.23 port 24516
+2025-12-01T18:28:21Z 192.168.1.20 sshd[2470]: Failed password for alice from 192.168.1.20 port 1222
+2025-12-01T18:13:42Z 198.51.100.23 sshd[4010]: Failed password for alice from 198.51.100.23 port 30584
+2025-12-01T17:13:47Z 203.0.113.50 sshd[2482]: Accepted password for alice from 203.0.113.50 port 35611
+2025-12-01T17:45:06Z 192.168.1.20 sshd[7678]: Accepted password for bob from 192.168.1.20 port 39825
+2025-12-01T18:25:32Z 10.0.0.12 sshd[1647]: Accepted password for carol from 10.0.0.12 port 29188
+2025-12-01T18:07:54Z 10.0.0.12 sshd[2350]: Failed password for dave from 10.0.0.12 port 15734
+198.51.100.23 - - [2025-12-01T18:18:13Z] "GET / HTTP/1.1" 403 3813
+2025-12-01T16:48:34Z 10.0.0.12 sshd[1648]: Accepted password for eve from 10.0.0.12 port 28019
+192.168.1.20 - - [2025-12-01T17:32:10Z] "POST /api/data HTTP/1.1" 500 4544
+2025-12-01T17:07:10Z 198.51.100.23 sshd[7296]: Accepted password for alice from 198.51.100.23 port 54024
+10.0.0.12 - - [2025-12-01T17:43:54Z] "GET /admin HTTP/1.1" 404 2331
+2025-12-01T16:47:34Z 198.51.100.23 sshd[7632]: Failed password for eve from 198.51.100.23 port 52364
+198.51.100.23 - - [2025-12-01T18:07:02Z] "POST / HTTP/1.1" 403 254
+192.168.1.20 - - [2025-12-01T17:39:00Z] "POST /login HTTP/1.1" 404 4139
+198.51.100.23 - - [2025-12-01T17:45:55Z] "GET /wp-login.php HTTP/1.1" 500 408
+10.0.0.5 - - [2025-12-01T17:24:39Z] "POST /api/data HTTP/1.1" 200 1603
+2025-12-01T16:53:02Z 198.51.100.23 sshd[6103]: Failed password for carol from 198.51.100.23 port 13248
+2025-12-01T17:58:30Z 198.51.100.23 EventID=4624 User=alice Msg=Logon Success
+2025-12-01T17:03:33Z 10.0.0.12 sshd[2089]: Accepted password for dave from 10.0.0.12 port 28676
+10.0.0.5 - - [2025-12-01T16:55:45Z] "POST / HTTP/1.1" 301 1149
+198.51.100.23 - - [2025-12-01T17:35:59Z] "GET /login HTTP/1.1" 403 4497
+203.0.113.50 - - [2025-12-01T17:27:24Z] "GET /wp-login.php HTTP/1.1" 200 3408
+2025-12-01T17:18:04Z 192.168.1.20 sshd[1761]: Failed password for alice from 192.168.1.20 port 57863
+10.0.0.12 - - [2025-12-01T17:26:47Z] "GET /api/data HTTP/1.1" 200 1131
+2025-12-01T17:39:32Z 10.0.0.5 sshd[1378]: Accepted password for carol from 10.0.0.5 port 35994
+2025-12-01T17:17:01Z 203.0.113.50 sshd[1683]: Accepted password for dave from 203.0.113.50 port 38731
+2025-12-01T17:58:12Z 10.0.0.12 EventID=4625 User=dave Msg=Logon Failure
+2025-12-01T18:04:34Z 192.168.1.20 sshd[3144]: Failed password for eve from 192.168.1.20 port 56967
+2025-12-01T18:35:41Z 192.168.1.20 sshd[6504]: Accepted password for dave from 192.168.1.20 port 46649
+2025-12-01T18:26:45Z 10.0.0.5 sshd[6313]: Accepted password for carol from 10.0.0.5 port 29942
+203.0.113.50 - - [2025-12-01T18:01:16Z] "GET / HTTP/1.1" 200 4612
+10.0.0.5 - - [2025-12-01T18:31:50Z] "GET /api/data HTTP/1.1" 403 4834
+10.0.0.12 - - [2025-12-01T18:33:31Z] "POST / HTTP/1.1" 200 1030
+2025-12-01T17:10:33Z 203.0.113.50 sshd[1394]: Failed password for carol from 203.0.113.50 port 51914
+2025-12-01T18:29:20Z 203.0.113.50 sshd[2420]: Failed password for alice from 203.0.113.50 port 50799
+2025-12-01T17:49:18Z 10.0.0.5 EventID=4625 User=dave Msg=Logon Failure
+2025-12-01T18:01:32Z 198.51.100.23 EventID=4672 User=bob Msg=Logon Failure
+2025-12-01T17:23:34Z 10.0.0.12 sshd[5755]: Accepted password for alice from 10.0.0.12 port 22039
+2025-12-01T17:59:14Z 198.51.100.23 sshd[4374]: Failed password for eve from 198.51.100.23 port 53899
+2025-12-01T17:19:56Z 192.168.1.20 sshd[6640]: Failed password for bob from 192.168.1.20 port 10439
+10.0.0.12 - - [2025-12-01T18:08:36Z] "GET /login HTTP/1.1" 200 4042
+2025-12-01T17:10:20Z 203.0.113.50 sshd[1429]: Accepted password for eve from 203.0.113.50 port 41017
+2025-12-01T18:25:07Z 192.168.1.20 sshd[3702]: Failed password for alice from 192.168.1.20 port 55354
+2025-12-01T17:01:26Z 10.0.0.5 sshd[3157]: Accepted password for alice from 10.0.0.5 port 1191
+192.168.1.20 - - [2025-12-01T17:00:06Z] "GET /wp-login.php HTTP/1.1" 200 2265
+2025-12-01T17:12:54Z 198.51.100.23 sshd[8890]: Accepted password for alice from 198.51.100.23 port 30137
+198.51.100.23 - - [2025-12-01T17:47:21Z] "GET / HTTP/1.1" 404 2344
+198.51.100.23 - - [2025-12-01T17:12:18Z] "POST /api/data HTTP/1.1" 404 1440
+198.51.100.23 - - [2025-12-01T17:00:53Z] "GET /login HTTP/1.1" 301 4166
+10.0.0.12 - - [2025-12-01T16:49:08Z] "GET / HTTP/1.1" 403 1352
+10.0.0.12 - - [2025-12-01T17:30:32Z] "POST / HTTP/1.1" 200 1987
+2025-12-01T18:17:04Z 10.0.0.5 EventID=4672 User=carol Msg=Logon Success
+2025-12-01T16:56:14Z 192.168.1.20 sshd[2284]: Failed password for alice from 192.168.1.20 port 36461
+2025-12-01T17:49:59Z 198.51.100.23 sshd[2283]: Accepted password for carol from 198.51.100.23 port 22285
+2025-12-01T17:18:42Z 192.168.1.20 EventID=4625 User=bob Msg=Logon Failure
+2025-12-01T17:53:16Z 10.0.0.5 EventID=4625 User=alice Msg=Logon Failure
+2025-12-01T18:27:07Z 198.51.100.23 EventID=4672 User=dave Msg=Logon Failure
+2025-12-01T17:49:18Z 198.51.100.23 sshd[2780]: Accepted password for bob from 198.51.100.23 port 4674
+10.0.0.12 - - [2025-12-01T17:21:41Z] "POST / HTTP/1.1" 301 617
+2025-12-01T17:59:17Z 192.168.1.20 EventID=4624 User=eve Msg=Privilege Assigned
+2025-12-01T18:05:42Z 10.0.0.5 sshd[6795]: Accepted password for bob from 10.0.0.5 port 10126
+2025-12-01T18:36:48Z 203.0.113.50 sshd[7098]: Failed password for dave from 203.0.113.50 port 1040
+192.168.1.20 - - [2025-12-01T18:16:30Z] "POST /admin HTTP/1.1" 403 4969
+2025-12-01T17:15:38Z 203.0.113.50 sshd[2276]: Failed password for dave from 203.0.113.50 port 34340
+2025-12-01T18:21:02Z 198.51.100.23 EventID=4625 User=bob Msg=Logon Success
+2025-12-01T18:36:51Z 10.0.0.12 sshd[2903]: Accepted password for bob from 10.0.0.12 port 24198
+2025-12-01T17:42:56Z 10.0.0.5 sshd[4763]: Accepted password for bob from 10.0.0.5 port 2009
+2025-12-01T17:16:54Z 10.0.0.5 sshd[3062]: Accepted password for eve from 10.0.0.5 port 55262
+2025-12-01T17:38:26Z 192.168.1.20 sshd[3615]: Failed password for alice from 192.168.1.20 port 45463
+2025-12-01T17:10:28Z 192.168.1.20 sshd[1370]: Accepted password for alice from 192.168.1.20 port 26525
+192.168.1.20 - - [2025-12-01T16:46:24Z] "POST /login HTTP/1.1" 404 3120
+203.0.113.50 - - [2025-12-01T18:38:27Z] "GET /login HTTP/1.1" 404 3769
+2025-12-01T18:17:09Z 192.168.1.20 sshd[8663]: Accepted password for carol from 192.168.1.20 port 48909
+2025-12-01T17:34:42Z 198.51.100.23 sshd[3034]: Failed password for bob from 198.51.100.23 port 40811
+2025-12-01T17:05:49Z 192.168.1.20 sshd[7003]: Failed password for bob from 192.168.1.20 port 21007
+198.51.100.23 - - [2025-12-01T18:02:35Z] "GET /wp-login.php HTTP/1.1" 404 4127
+192.168.1.20 - - [2025-12-01T18:13:37Z] "POST /api/data HTTP/1.1" 200 168
+203.0.113.50 - - [2025-12-01T18:09:27Z] "POST /api/data HTTP/1.1" 403 1475
+2025-12-01T17:50:42Z 198.51.100.23 sshd[1775]: Accepted password for bob from 198.51.100.23 port 41515
+2025-12-01T16:47:43Z 203.0.113.50 sshd[5355]: Failed password for eve from 203.0.113.50 port 24091
+10.0.0.5 - - [2025-12-01T18:05:19Z] "GET /wp-login.php HTTP/1.1" 301 4353
+2025-12-01T17:10:47Z 10.0.0.12 EventID=4624 User=carol Msg=Privilege Assigned
+192.168.1.20 - - [2025-12-01T17:18:12Z] "POST /wp-login.php HTTP/1.1" 500 4010
+2025-12-01T18:35:42Z 203.0.113.50 sshd[3927]: Accepted password for eve from 203.0.113.50 port 55369
+2025-12-01T18:36:03Z 10.0.0.12 sshd[8159]: Accepted password for eve from 10.0.0.12 port 63189
+2025-12-01T18:40:16Z 10.0.0.12 EventID=4625 User=alice Msg=Privilege Assigned
+2025-12-01T17:34:08Z 192.168.1.20 EventID=4672 User=eve Msg=Privilege Assigned
+2025-12-01T16:59:42Z 10.0.0.5 sshd[8242]: Failed password for dave from 10.0.0.5 port 42574
+2025-12-01T16:52:05Z 192.168.1.20 EventID=4625 User=dave Msg=Logon Success
+2025-12-01T18:07:57Z 198.51.100.23 EventID=4624 User=carol Msg=Privilege Assigned
+10.0.0.5 - - [2025-12-01T18:31:54Z] "GET /admin HTTP/1.1" 301 3542
+2025-12-01T17:27:29Z 198.51.100.23 sshd[4049]: Accepted password for dave from 198.51.100.23 port 50903
+2025-12-01T18:10:55Z 203.0.113.99 sshd[3928]: Failed password for alice from 203.0.113.99 port 18268
+2025-12-01T18:34:24Z 10.0.0.12 sshd[7677]: Failed password for alice from 10.0.0.12 port 61961
+10.0.0.5 - - [2025-12-01T17:54:26Z] "GET / HTTP/1.1" 200 4999
+2025-12-01T17:23:32Z 192.168.1.20 sshd[6750]: Accepted password for alice from 192.168.1.20 port 52941
+2025-12-01T17:14:22Z 10.0.0.12 EventID=4624 User=eve Msg=Privilege Assigned
+2025-12-01T18:34:25Z 10.0.0.5 sshd[3249]: Accepted password for bob from 10.0.0.5 port 14618
+2025-12-01T17:56:12Z 203.0.113.50 sshd[3636]: Failed password for eve from 203.0.113.50 port 31890
+2025-12-01T17:15:42Z 10.0.0.12 sshd[6543]: Accepted password for bob from 10.0.0.12 port 42174
+2025-12-01T17:20:46Z 192.168.1.20 sshd[6380]: Accepted password for dave from 192.168.1.20 port 18128
+2025-12-01T17:24:41Z 192.168.1.20 sshd[4435]: Accepted password for carol from 192.168.1.20 port 52901
+10.0.0.5 - - [2025-12-01T17:21:40Z] "GET /admin HTTP/1.1" 404 526
+203.0.113.50 - - [2025-12-01T17:26:31Z] "POST /wp-login.php HTTP/1.1" 500 3864
+10.0.0.12 - - [2025-12-01T17:10:28Z] "POST /wp-login.php HTTP/1.1" 500 4733
+2025-12-01T18:06:52Z 198.51.100.23 EventID=4625 User=carol Msg=Logon Success
+10.0.0.5 - - [2025-12-01T16:49:19Z] "GET /admin HTTP/1.1" 301 2410
+2025-12-01T17:21:00Z 203.0.113.50 EventID=4625 User=carol Msg=Logon Success
+2025-12-01T17:23:25Z 198.51.100.23 sshd[1782]: Failed password for dave from 198.51.100.23 port 19239
+2025-12-01T17:38:28Z 203.0.113.50 EventID=4672 User=carol Msg=Logon Success
+2025-12-01T18:03:26Z 203.0.113.50 sshd[6154]: Failed password for dave from 203.0.113.50 port 58618
+10.0.0.5 - - [2025-12-01T17:07:34Z] "POST /admin HTTP/1.1" 200 2426
+192.168.1.20 - - [2025-12-01T17:34:45Z] "POST /login HTTP/1.1" 403 3749
+2025-12-01T17:33:38Z 198.51.100.23 EventID=4624 User=alice Msg=Logon Failure
+2025-12-01T16:58:55Z 198.51.100.23 EventID=4672 User=bob Msg=Privilege Assigned
+2025-12-01T18:17:47Z 10.0.0.5 EventID=4625 User=bob Msg=Privilege Assigned
+2025-12-01T17:30:49Z 10.0.0.5 sshd[8235]: Accepted password for carol from 10.0.0.5 port 9962
+2025-12-01T16:41:21Z 10.0.0.5 sshd[3308]: Failed password for eve from 10.0.0.5 port 58531
+2025-12-01T18:21:36Z 10.0.0.12 sshd[5447]: Failed password for bob from 10.0.0.12 port 11189
+2025-12-01T17:40:25Z 203.0.113.50 sshd[7643]: Failed password for alice from 203.0.113.50 port 38351
+2025-12-01T17:40:21Z 10.0.0.5 sshd[6796]: Failed password for bob from 10.0.0.5 port 13187
+2025-12-01T18:14:41Z 10.0.0.5 sshd[7878]: Accepted password for alice from 10.0.0.5 port 9595
+2025-12-01T18:33:01Z 10.0.0.12 EventID=4672 User=dave Msg=Logon Success
+10.0.0.5 - - [2025-12-01T17:54:52Z] "GET /login HTTP/1.1" 500 3568
+2025-12-01T18:11:55Z 203.0.113.99 sshd[7347]: Failed password for eve from 203.0.113.99 port 40158
+10.0.0.12 - - [2025-12-01T18:05:45Z] "GET /api/data HTTP/1.1" 301 2272
+2025-12-01T16:44:05Z 198.51.100.23 sshd[2198]: Accepted password for dave from 198.51.100.23 port 24057
+2025-12-01T17:40:39Z 10.0.0.5 EventID=4625 User=dave Msg=Privilege Assigned
+2025-12-01T17:27:03Z 192.168.1.20 sshd[4850]: Accepted password for bob from 192.168.1.20 port 13920
+2025-12-01T18:20:48Z 203.0.113.50 sshd[4607]: Accepted password for carol from 203.0.113.50 port 14471
+2025-12-01T17:26:21Z 198.51.100.23 sshd[3666]: Accepted password for bob from 198.51.100.23 port 47677
+2025-12-01T17:04:08Z 203.0.113.50 sshd[6771]: Failed password for bob from 203.0.113.50 port 3116
+2025-12-01T16:58:30Z 203.0.113.50 EventID=4625 User=dave Msg=Logon Success
+2025-12-01T17:30:12Z 198.51.100.23 sshd[6998]: Accepted password for dave from 198.51.100.23 port 57687
+10.0.0.5 - - [2025-12-01T17:17:20Z] "GET / HTTP/1.1" 403 447
+10.0.0.12 - - [2025-12-01T17:00:32Z] "POST /login HTTP/1.1" 403 918
+2025-12-01T17:16:09Z 192.168.1.20 sshd[5796]: Failed password for dave from 192.168.1.20 port 16037
+2025-12-01T17:51:00Z 203.0.113.50 sshd[8623]: Accepted password for eve from 203.0.113.50 port 31124
+2025-12-01T17:00:35Z 203.0.113.50 sshd[8464]: Accepted password for eve from 203.0.113.50 port 17514
+2025-12-01T17:20:40Z 203.0.113.50 EventID=4672 User=carol Msg=Logon Success
+203.0.113.50 - - [2025-12-01T16:57:50Z] "POST /api/data HTTP/1.1" 200 819
+2025-12-01T18:31:19Z 192.168.1.20 EventID=4624 User=alice Msg=Privilege Assigned
+2025-12-01T17:50:44Z 203.0.113.50 EventID=4672 User=bob Msg=Logon Success
+2025-12-01T18:19:54Z 192.168.1.20 sshd[2788]: Accepted password for alice from 192.168.1.20 port 29928
+10.0.0.5 - - [2025-12-01T17:12:33Z] "GET /admin HTTP/1.1" 404 103
+2025-12-01T18:08:23Z 192.168.1.20 sshd[4369]: Accepted password for dave from 192.168.1.20 port 40005
+2025-12-01T16:54:02Z 192.168.1.20 sshd[7769]: Failed password for eve from 192.168.1.20 port 25437
+2025-12-01T16:43:54Z 198.51.100.23 sshd[5909]: Accepted password for bob from 198.51.100.23 port 37954
+198.51.100.23 - - [2025-12-01T16:41:34Z] "GET /wp-login.php HTTP/1.1" 500 4572
+2025-12-01T17:46:57Z 203.0.113.50 sshd[8545]: Failed password for dave from 203.0.113.50 port 23703
+2025-12-01T17:34:11Z 10.0.0.5 sshd[1831]: Accepted password for bob from 10.0.0.5 port 16713
+10.0.0.12 - - [2025-12-01T18:11:30Z] "POST /api/data HTTP/1.1" 200 1422
+2025-12-01T17:05:59Z 198.51.100.23 sshd[7342]: Failed password for alice from 198.51.100.23 port 18207
+2025-12-01T17:00:52Z 203.0.113.50 sshd[3366]: Accepted password for eve from 203.0.113.50 port 58513
+2025-12-01T17:07:03Z 10.0.0.12 sshd[4218]: Failed password for eve from 10.0.0.12 port 49665
+2025-12-01T17:20:01Z 198.51.100.23 sshd[5070]: Failed password for alice from 198.51.100.23 port 29498
+2025-12-01T17:14:16Z 10.0.0.5 sshd[8775]: Failed password for alice from 10.0.0.5 port 8265
+192.168.1.20 - - [2025-12-01T17:53:31Z] "POST /admin HTTP/1.1" 500 4174
+198.51.100.23 - - [2025-12-01T17:57:49Z] "GET / HTTP/1.1" 301 2836
+203.0.113.50 - - [2025-12-01T18:02:34Z] "POST / HTTP/1.1" 200 3005
+10.0.0.12 - - [2025-12-01T17:49:43Z] "GET /login HTTP/1.1" 301 4050
+2025-12-01T17:06:08Z 10.0.0.12 sshd[1591]: Failed password for eve from 10.0.0.12 port 20412
+2025-12-01T18:24:21Z 198.51.100.23 sshd[3133]: Accepted password for dave from 198.51.100.23 port 21061
+2025-12-01T16:50:28Z 198.51.100.23 EventID=4625 User=eve Msg=Logon Success
+192.168.1.20 - - [2025-12-01T17:58:21Z] "GET /api/data HTTP/1.1" 301 4179
+2025-12-01T18:02:38Z 198.51.100.23 sshd[1119]: Accepted password for bob from 198.51.100.23 port 61265
+203.0.113.50 - - [2025-12-01T17:22:45Z] "GET /wp-login.php HTTP/1.1" 500 3965
+2025-12-01T17:40:45Z 203.0.113.50 EventID=4624 User=bob Msg=Logon Success
+2025-12-01T17:14:40Z 10.0.0.5 sshd[1602]: Failed password for eve from 10.0.0.5 port 27303
+203.0.113.50 - - [2025-12-01T18:24:38Z] "GET /admin HTTP/1.1" 200 1394
+192.168.1.20 - - [2025-12-01T18:21:21Z] "POST /admin HTTP/1.1" 404 1065
+10.0.0.12 - - [2025-12-01T17:18:47Z] "GET / HTTP/1.1" 301 1283
+192.168.1.20 - - [2025-12-01T18:14:48Z] "GET /admin HTTP/1.1" 301 3994
+2025-12-01T16:48:14Z 192.168.1.20 sshd[8515]: Accepted password for bob from 192.168.1.20 port 26798
+198.51.100.23 - - [2025-12-01T18:06:38Z] "GET /api/data HTTP/1.1" 403 2094
+2025-12-01T17:30:22Z 203.0.113.50 sshd[6174]: Failed password for alice from 203.0.113.50 port 35568
+198.51.100.23 - - [2025-12-01T18:03:15Z] "GET /login HTTP/1.1" 200 3048
+192.168.1.20 - - [2025-12-01T17:17:34Z] "POST /wp-login.php HTTP/1.1" 404 4687
+203.0.113.50 - - [2025-12-01T16:58:22Z] "GET /wp-login.php HTTP/1.1" 403 569
+2025-12-01T18:31:43Z 10.0.0.5 sshd[1264]: Failed password for dave from 10.0.0.5 port 7719
+198.51.100.23 - - [2025-12-01T17:51:38Z] "POST /login HTTP/1.1" 200 1996
+2025-12-01T16:43:42Z 203.0.113.50 sshd[7177]: Accepted password for alice from 203.0.113.50 port 39436
+2025-12-01T17:09:18Z 198.51.100.23 sshd[4227]: Failed password for alice from 198.51.100.23 port 9978
+2025-12-01T16:51:31Z 10.0.0.5 sshd[3770]: Failed password for carol from 10.0.0.5 port 32061
+2025-12-01T17:34:11Z 10.0.0.5 sshd[8655]: Failed password for carol from 10.0.0.5 port 59369
+2025-12-01T17:22:04Z 10.0.0.5 sshd[1904]: Accepted password for carol from 10.0.0.5 port 32568
+2025-12-01T17:01:18Z 203.0.113.50 sshd[8760]: Accepted password for carol from 203.0.113.50 port 15494
+2025-12-01T17:11:15Z 192.168.1.20 sshd[2944]: Accepted password for eve from 192.168.1.20 port 20627
+2025-12-01T17:19:31Z 192.168.1.20 EventID=4625 User=bob Msg=Privilege Assigned
+2025-12-01T18:17:56Z 10.0.0.12 sshd[4402]: Accepted password for eve from 10.0.0.12 port 46836
+2025-12-01T17:41:53Z 192.168.1.20 sshd[4547]: Failed password for alice from 192.168.1.20 port 35637
+2025-12-01T18:01:14Z 10.0.0.5 sshd[8855]: Accepted password for eve from 10.0.0.5 port 35895
+2025-12-01T18:34:25Z 10.0.0.5 sshd[7909]: Failed password for eve from 10.0.0.5 port 50951
+10.0.0.12 - - [2025-12-01T17:45:02Z] "GET / HTTP/1.1" 200 3298
+2025-12-01T18:04:41Z 203.0.113.50 sshd[8096]: Accepted password for alice from 203.0.113.50 port 64263
+10.0.0.5 - - [2025-12-01T16:54:27Z] "GET /api/data HTTP/1.1" 200 3988
+2025-12-01T18:19:13Z 10.0.0.5 sshd[1844]: Accepted password for bob from 10.0.0.5 port 18155
+2025-12-01T17:50:28Z 203.0.113.50 sshd[6231]: Accepted password for alice from 203.0.113.50 port 18254
+2025-12-01T16:43:07Z 198.51.100.23 sshd[7014]: Failed password for alice from 198.51.100.23 port 23661
+2025-12-01T18:34:16Z 198.51.100.23 EventID=4624 User=bob Msg=Logon Failure
+2025-12-01T18:11:50Z 203.0.113.99 sshd[4892]: Failed password for bob from 203.0.113.99 port 42262
+2025-12-01T18:09:15Z 198.51.100.23 sshd[3395]: Accepted password for bob from 198.51.100.23 port 6737
+2025-12-01T17:37:11Z 198.51.100.23 EventID=4625 User=eve Msg=Logon Failure
+2025-12-01T17:18:16Z 10.0.0.5 sshd[6140]: Accepted password for dave from 10.0.0.5 port 5723
+203.0.113.50 - - [2025-12-01T16:45:11Z] "GET / HTTP/1.1" 500 2575
+2025-12-01T17:27:47Z 10.0.0.5 sshd[5830]: Accepted password for carol from 10.0.0.5 port 58048
+10.0.0.5 - - [2025-12-01T18:19:48Z] "POST /admin HTTP/1.1" 403 1182
+10.0.0.5 - - [2025-12-01T18:10:03Z] "GET /api/data HTTP/1.1" 301 2038
+10.0.0.12 - - [2025-12-01T17:28:09Z] "GET /login HTTP/1.1" 500 1359
+198.51.100.23 - - [2025-12-01T17:19:48Z] "POST /login HTTP/1.1" 301 3980
+192.168.1.20 - - [2025-12-01T17:19:05Z] "GET /api/data HTTP/1.1" 200 537
+192.168.1.20 - - [2025-12-01T17:46:37Z] "GET /wp-login.php HTTP/1.1" 301 1175
+2025-12-01T18:24:52Z 203.0.113.50 EventID=4625 User=carol Msg=Logon Failure
+10.0.0.5 - - [2025-12-01T18:29:58Z] "POST / HTTP/1.1" 403 4748
+2025-12-01T17:54:49Z 198.51.100.23 EventID=4672 User=bob Msg=Privilege Assigned
+10.0.0.5 - - [2025-12-01T16:47:10Z] "GET /admin HTTP/1.1" 404 2809
+198.51.100.23 - - [2025-12-01T17:14:26Z] "GET / HTTP/1.1" 500 3428
+2025-12-01T17:59:10Z 10.0.0.12 sshd[1108]: Accepted password for bob from 10.0.0.12 port 59473
+2025-12-01T16:57:15Z 198.51.100.23 EventID=4672 User=eve Msg=Logon Failure
+2025-12-01T18:14:08Z 10.0.0.5 sshd[7151]: Accepted password for bob from 10.0.0.5 port 9292
+198.51.100.23 - - [2025-12-01T17:07:06Z] "POST /api/data HTTP/1.1" 404 3792
+10.0.0.5 - - [2025-12-01T16:48:26Z] "POST /login HTTP/1.1" 404 1972
+2025-12-01T16:50:40Z 10.0.0.5 EventID=4625 User=alice Msg=Privilege Assigned
+2025-12-01T17:05:29Z 10.0.0.12 sshd[7014]: Accepted password for alice from 10.0.0.12 port 29188
+2025-12-01T17:07:34Z 192.168.1.20 sshd[6753]: Failed password for alice from 192.168.1.20 port 56768
+2025-12-01T18:38:53Z 10.0.0.5 sshd[6944]: Accepted password for carol from 10.0.0.5 port 32132
+2025-12-01T18:20:39Z 10.0.0.5 sshd[6631]: Failed password for bob from 10.0.0.5 port 1312
+2025-12-01T17:24:44Z 10.0.0.12 EventID=4672 User=alice Msg=Privilege Assigned
+198.51.100.23 - - [2025-12-01T17:26:20Z] "GET /admin HTTP/1.1" 200 3048
+198.51.100.23 - - [2025-12-01T16:44:46Z] "GET /wp-login.php HTTP/1.1" 200 1747
+2025-12-01T18:12:20Z 203.0.113.99 sshd[8605]: Failed password for carol from 203.0.113.99 port 24205
+192.168.1.20 - - [2025-12-01T18:37:04Z] "POST /login HTTP/1.1" 200 1280

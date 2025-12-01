@@ -1,5 +1,6 @@
-@"
 python-dateutil
 pytz
 tabulate
-"@ > requirements.txt
+streamlit
+pandas
+plotly
