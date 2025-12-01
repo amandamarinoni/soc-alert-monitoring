@@ -62,3 +62,6 @@ graph LR
   I --> J[🧪 Testes Automáticos + QA]
 
   J --> K[🚀 Fase Final — Dashboard Completo & Operacional]
+
+  ![CI](https://github.com/amandamarinoni/soc-alert-monitoring/actions/workflows/ci.yml/badge.svg)
+
